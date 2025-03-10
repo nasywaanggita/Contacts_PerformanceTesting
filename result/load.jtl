@@ -1,0 +1,873 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1741613992741,1505,Add User,201,Created,Load Test 1-1,text,true,,1282,336,8,8,https://thinking-tester-contact-list.herokuapp.com/users,1505,0,1203
+1741613993138,1108,Add User,201,Created,Load Test 1-3,text,true,,1282,336,8,8,https://thinking-tester-contact-list.herokuapp.com/users,1108,0,807
+1741613992937,1324,Add User,201,Created,Load Test 1-2,text,true,,1282,336,8,8,https://thinking-tester-contact-list.herokuapp.com/users,1324,0,1007
+1741613994251,250,Get User Profile,200,OK,Load Test 1-1,text,true,,878,525,9,9,https://thinking-tester-contact-list.herokuapp.com/users/me,250,0,0
+1741613994254,286,Get User Profile,200,OK,Load Test 1-3,text,true,,878,525,10,10,https://thinking-tester-contact-list.herokuapp.com/users/me,286,0,0
+1741613994262,278,Get User Profile,200,OK,Load Test 1-2,text,true,,878,525,10,10,https://thinking-tester-contact-list.herokuapp.com/users/me,278,0,0
+1741613993337,1210,Add User,201,Created,Load Test 1-4,text,true,,1282,336,10,10,https://thinking-tester-contact-list.herokuapp.com/users,1210,0,909
+1741613994502,261,Update User,200,OK,Load Test 1-1,text,true,,885,632,11,11,https://thinking-tester-contact-list.herokuapp.com/users/me,261,0,0
+1741613994542,262,Update User,200,OK,Load Test 1-3,text,true,,885,632,11,11,https://thinking-tester-contact-list.herokuapp.com/users/me,262,0,0
+1741613993538,1269,Add User,201,Created,Load Test 1-5,text,true,,1282,336,11,11,https://thinking-tester-contact-list.herokuapp.com/users,1269,0,973
+1741613994548,261,Get User Profile,200,OK,Load Test 1-4,text,true,,878,525,11,11,https://thinking-tester-contact-list.herokuapp.com/users/me,261,0,0
+1741613994542,275,Update User,200,OK,Load Test 1-2,text,true,,885,632,11,11,https://thinking-tester-contact-list.herokuapp.com/users/me,275,0,0
+1741613993736,1234,Add User,201,Created,Load Test 1-6,text,true,,1282,336,12,12,https://thinking-tester-contact-list.herokuapp.com/users,1234,0,952
+1741613994764,259,Add Contact,201,Created,Load Test 1-1,text,true,,1011,809,12,12,https://thinking-tester-contact-list.herokuapp.com/contacts,259,0,0
+1741613994805,281,Add Contact,201,Created,Load Test 1-3,text,true,,1009,807,12,12,https://thinking-tester-contact-list.herokuapp.com/contacts,281,0,0
+1741613994808,285,Get User Profile,200,OK,Load Test 1-5,text,true,,878,525,12,12,https://thinking-tester-contact-list.herokuapp.com/users/me,285,0,0
+1741613994809,291,Update User,200,OK,Load Test 1-4,text,true,,886,633,12,12,https://thinking-tester-contact-list.herokuapp.com/users/me,291,0,0
+1741613993937,1164,Add User,201,Created,Load Test 1-7,text,true,,1282,336,12,12,https://thinking-tester-contact-list.herokuapp.com/users,1163,0,862
+1741613994817,285,Add Contact,201,Created,Load Test 1-2,text,true,,1019,816,12,12,https://thinking-tester-contact-list.herokuapp.com/contacts,285,0,0
+1741613994137,1074,Add User,201,Created,Load Test 1-8,text,true,,1282,336,13,13,https://thinking-tester-contact-list.herokuapp.com/users,1074,0,780
+1741613994970,252,Get User Profile,200,OK,Load Test 1-6,text,true,,878,525,13,13,https://thinking-tester-contact-list.herokuapp.com/users/me,252,0,0
+1741613995024,254,Get Contacts,200,OK,Load Test 1-1,text,true,,1008,525,13,13,https://thinking-tester-contact-list.herokuapp.com/contacts,254,0,0
+1741613995094,269,Update User,200,OK,Load Test 1-5,text,true,,888,635,14,14,https://thinking-tester-contact-list.herokuapp.com/users/me,269,0,0
+1741613995101,262,Get User Profile,200,OK,Load Test 1-7,text,true,,878,525,14,14,https://thinking-tester-contact-list.herokuapp.com/users/me,262,0,0
+1741613995102,269,Get Contacts,200,OK,Load Test 1-2,text,true,,1016,525,14,14,https://thinking-tester-contact-list.herokuapp.com/contacts,269,0,0
+1741613995088,285,Get Contacts,200,OK,Load Test 1-3,text,true,,1006,525,14,14,https://thinking-tester-contact-list.herokuapp.com/contacts,285,0,0
+1741613994337,1040,Add User,201,Created,Load Test 1-9,text,true,,1282,336,14,14,https://thinking-tester-contact-list.herokuapp.com/users,1040,0,749
+1741613995101,278,Add Contact,201,Created,Load Test 1-4,text,true,,1019,817,14,14,https://thinking-tester-contact-list.herokuapp.com/contacts,278,0,0
+1741613995212,284,Get User Profile,200,OK,Load Test 1-8,text,true,,878,525,14,14,https://thinking-tester-contact-list.herokuapp.com/users/me,284,0,0
+1741613995223,289,Update User,200,OK,Load Test 1-6,text,true,,885,632,14,14,https://thinking-tester-contact-list.herokuapp.com/users/me,289,0,0
+1741613995279,260,Update Contact,200,OK,Load Test 1-1,text,true,,1040,836,15,15,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebaf53c0aa001392f8ae,260,0,0
+1741613994537,1062,Add User,201,Created,Load Test 1-10,text,true,,1282,336,15,15,https://thinking-tester-contact-list.herokuapp.com/users,1062,0,770
+1741613995363,265,Add Contact,201,Created,Load Test 1-5,text,true,,1016,813,15,15,https://thinking-tester-contact-list.herokuapp.com/contacts,265,0,0
+1741613995379,250,Get User Profile,200,OK,Load Test 1-9,text,true,,882,525,15,15,https://thinking-tester-contact-list.herokuapp.com/users/me,250,0,0
+1741613995373,261,Update Contact,200,OK,Load Test 1-3,text,true,,1042,834,15,15,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebaf32eaf700137a4c3f,261,0,0
+1741613995363,271,Update User,200,OK,Load Test 1-7,text,true,,889,632,15,15,https://thinking-tester-contact-list.herokuapp.com/users/me,271,0,0
+1741613995379,264,Get Contacts,200,OK,Load Test 1-4,text,true,,1020,525,15,15,https://thinking-tester-contact-list.herokuapp.com/contacts,264,0,0
+1741613995373,276,Update Contact,200,OK,Load Test 1-2,text,true,,1051,843,15,15,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebaf32eaf700137a4c41,276,0,0
+1741613995496,264,Update User,200,OK,Load Test 1-8,text,true,,889,632,16,16,https://thinking-tester-contact-list.herokuapp.com/users/me,264,0,0
+1741613995513,262,Add Contact,201,Created,Load Test 1-6,text,true,,1015,809,16,16,https://thinking-tester-contact-list.herokuapp.com/contacts,262,0,0
+1741613995539,278,Patch Contact,200,OK,Load Test 1-1,text,true,,1013,602,16,16,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebaf53c0aa001392f8ae,278,0,0
+1741613994740,1089,Add User,201,Created,Load Test 1-11,text,true,,1286,336,16,16,https://thinking-tester-contact-list.herokuapp.com/users,1089,0,787
+1741613995600,262,Get User Profile,200,OK,Load Test 1-10,text,true,,882,525,16,16,https://thinking-tester-contact-list.herokuapp.com/users/me,262,0,0
+1741613995628,260,Get Contacts,200,OK,Load Test 1-5,text,true,,1013,525,16,16,https://thinking-tester-contact-list.herokuapp.com/contacts,260,0,0
+1741613995630,260,Update User,200,OK,Load Test 1-9,text,true,,890,633,16,16,https://thinking-tester-contact-list.herokuapp.com/users/me,260,0,0
+1741613995635,287,Add Contact,201,Created,Load Test 1-7,text,true,,1023,816,16,16,https://thinking-tester-contact-list.herokuapp.com/contacts,287,0,0
+1741613995635,292,Patch Contact,200,OK,Load Test 1-3,text,true,,1011,602,16,16,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebaf32eaf700137a4c3f,292,0,0
+1741613995643,287,Update Contact,200,OK,Load Test 1-4,text,true,,1050,843,16,16,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebaf32eaf700137a4c45,287,0,0
+1741613995649,287,Patch Contact,200,OK,Load Test 1-2,text,true,,1021,602,17,17,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebaf32eaf700137a4c41,287,0,0
+1741613994936,1078,Add User,201,Created,Load Test 1-12,text,true,,1286,336,17,17,https://thinking-tester-contact-list.herokuapp.com/users,1078,0,786
+1741613995761,262,Add Contact,201,Created,Load Test 1-8,text,true,,1013,807,17,17,https://thinking-tester-contact-list.herokuapp.com/contacts,262,0,0
+1741613995775,253,Get Contacts,200,OK,Load Test 1-6,text,true,,1012,525,17,17,https://thinking-tester-contact-list.herokuapp.com/contacts,253,0,0
+1741613995818,258,Delete Contact,200,OK,Load Test 1-1,text,true,,764,603,17,17,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebaf53c0aa001392f8ae,258,0,0
+1741613995830,263,Get User Profile,200,OK,Load Test 1-11,text,true,,882,525,17,17,https://thinking-tester-contact-list.herokuapp.com/users/me,263,0,0
+1741613995863,262,Update User,200,OK,Load Test 1-10,text,true,,892,635,17,17,https://thinking-tester-contact-list.herokuapp.com/users/me,262,0,0
+1741613995889,263,Update Contact,200,OK,Load Test 1-5,text,true,,1042,837,18,18,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb032eaf700137a4c49,263,0,0
+1741613995891,261,Add Contact,201,Created,Load Test 1-9,text,true,,1023,817,18,18,https://thinking-tester-contact-list.herokuapp.com/contacts,261,0,0
+1741613995923,272,Get Contacts,200,OK,Load Test 1-7,text,true,,1020,525,18,18,https://thinking-tester-contact-list.herokuapp.com/contacts,272,0,0
+1741613995930,272,Delete Contact,200,OK,Load Test 1-3,text,true,,764,603,18,18,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebaf32eaf700137a4c3f,272,0,0
+1741613995931,310,Patch Contact,200,OK,Load Test 1-4,text,true,,1020,602,18,18,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebaf32eaf700137a4c45,310,0,0
+1741613995136,1111,Add User,201,Created,Load Test 1-13,text,true,,1286,336,18,18,https://thinking-tester-contact-list.herokuapp.com/users,1111,0,770
+1741613995937,319,Delete Contact,200,OK,Load Test 1-2,text,true,,764,603,18,18,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebaf32eaf700137a4c41,319,0,0
+1741613996015,260,Get User Profile,200,OK,Load Test 1-12,text,true,,882,525,18,18,https://thinking-tester-contact-list.herokuapp.com/users/me,260,0,0
+1741613996024,270,Get Contacts,200,OK,Load Test 1-8,text,true,,1010,525,18,18,https://thinking-tester-contact-list.herokuapp.com/contacts,270,0,0
+1741613996030,264,Update Contact,200,OK,Load Test 1-6,text,true,,1044,836,18,18,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb032eaf700137a4c4a,264,0,0
+1741613996077,283,Add User,201,Created,Load Test 1-1,text,true,,1286,501,19,19,https://thinking-tester-contact-list.herokuapp.com/users,283,0,0
+1741613996094,271,Update User,200,OK,Load Test 1-11,text,true,,889,632,19,19,https://thinking-tester-contact-list.herokuapp.com/users/me,271,0,0
+1741613996125,262,Add Contact,201,Created,Load Test 1-10,text,true,,1016,813,19,19,https://thinking-tester-contact-list.herokuapp.com/contacts,262,0,0
+1741613996153,251,Get Contacts,200,OK,Load Test 1-9,text,true,,1020,525,19,19,https://thinking-tester-contact-list.herokuapp.com/contacts,251,0,0
+1741613995335,1070,Add User,201,Created,Load Test 1-14,text,true,,1286,336,19,19,https://thinking-tester-contact-list.herokuapp.com/users,1070,0,773
+1741613996153,264,Patch Contact,200,OK,Load Test 1-5,text,true,,1011,602,19,19,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb032eaf700137a4c49,264,0,0
+1741613996196,267,Update Contact,200,OK,Load Test 1-7,text,true,,1051,843,19,19,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb032eaf700137a4c4d,267,0,0
+1741613996205,284,Add User,201,Created,Load Test 1-3,text,true,,1286,501,19,19,https://thinking-tester-contact-list.herokuapp.com/users,284,0,0
+1741613996248,260,Get User Profile,200,OK,Load Test 1-13,text,true,,882,525,19,19,https://thinking-tester-contact-list.herokuapp.com/users/me,260,0,0
+1741613996242,267,Delete Contact,200,OK,Load Test 1-4,text,true,,764,603,19,19,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebaf32eaf700137a4c45,267,0,0
+1741613996276,279,Update User,200,OK,Load Test 1-12,text,true,,889,632,20,20,https://thinking-tester-contact-list.herokuapp.com/users/me,279,0,0
+1741613996259,303,Add User,201,Created,Load Test 1-2,text,true,,1286,501,20,20,https://thinking-tester-contact-list.herokuapp.com/users,303,0,0
+1741613996295,271,Update Contact,200,OK,Load Test 1-8,text,true,,1042,834,20,20,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb053c0aa001392f8b1,271,0,0
+1741613996295,271,Patch Contact,200,OK,Load Test 1-6,text,true,,1013,602,20,20,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb032eaf700137a4c4a,271,0,0
+1741613995538,1057,Add User,201,Created,Load Test 1-15,text,true,,1286,336,20,20,https://thinking-tester-contact-list.herokuapp.com/users,1057,0,767
+1741613996361,274,Get User Profile,200,OK,Load Test 1-1,text,true,,870,525,20,20,https://thinking-tester-contact-list.herokuapp.com/users/me,274,0,0
+1741613996388,257,Get Contacts,200,OK,Load Test 1-10,text,true,,1001,525,20,20,https://thinking-tester-contact-list.herokuapp.com/contacts,257,0,0
+1741613996365,291,Add Contact,201,Created,Load Test 1-11,text,true,,1003,809,20,20,https://thinking-tester-contact-list.herokuapp.com/contacts,291,0,0
+1741613996404,261,Update Contact,200,OK,Load Test 1-9,text,true,,1038,843,20,20,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb032eaf700137a4c4e,261,0,0
+1741613996405,260,Get User Profile,200,OK,Load Test 1-14,text,true,,870,525,20,20,https://thinking-tester-contact-list.herokuapp.com/users/me,260,0,0
+1741613996418,262,Delete Contact,200,OK,Load Test 1-5,text,true,,752,603,20,20,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb032eaf700137a4c49,262,0,0
+1741613996463,269,Patch Contact,200,OK,Load Test 1-7,text,true,,1009,602,20,20,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb032eaf700137a4c4d,269,0,0
+1741613996490,251,Get User Profile,200,OK,Load Test 1-3,text,true,,870,525,21,21,https://thinking-tester-contact-list.herokuapp.com/users/me,251,0,0
+1741613996508,312,Update User,200,OK,Load Test 1-13,text,true,,877,632,21,21,https://thinking-tester-contact-list.herokuapp.com/users/me,312,0,0
+1741613995738,1082,Add User,201,Created,Load Test 1-16,text,true,,1274,336,21,21,https://thinking-tester-contact-list.herokuapp.com/users,1082,0,765
+1741613996555,271,Add Contact,201,Created,Load Test 1-12,text,true,,1011,816,21,21,https://thinking-tester-contact-list.herokuapp.com/contacts,271,0,0
+1741613996567,262,Delete Contact,200,OK,Load Test 1-6,text,true,,752,603,21,21,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb032eaf700137a4c4a,262,0,0
+1741613996510,319,Add User,201,Created,Load Test 1-4,text,true,,1274,501,21,21,https://thinking-tester-contact-list.herokuapp.com/users,319,0,0
+1741613996563,266,Get User Profile,200,OK,Load Test 1-2,text,true,,870,525,21,21,https://thinking-tester-contact-list.herokuapp.com/users/me,266,0,0
+1741613996567,273,Patch Contact,200,OK,Load Test 1-8,text,true,,999,602,21,21,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb053c0aa001392f8b1,273,0,0
+1741613996597,258,Get User Profile,200,OK,Load Test 1-15,text,true,,870,525,21,21,https://thinking-tester-contact-list.herokuapp.com/users/me,258,0,0
+1741613996635,257,Update User,200,OK,Load Test 1-1,text,true,,877,632,21,21,https://thinking-tester-contact-list.herokuapp.com/users/me,257,0,0
+1741613996646,266,Update Contact,200,OK,Load Test 1-10,text,true,,1030,837,21,21,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb053c0aa001392f8b6,266,0,0
+1741613996666,260,Patch Contact,200,OK,Load Test 1-9,text,true,,1008,602,21,21,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb032eaf700137a4c4e,260,0,0
+1741613996657,270,Get Contacts,200,OK,Load Test 1-11,text,true,,1000,525,21,21,https://thinking-tester-contact-list.herokuapp.com/contacts,270,0,0
+1741613996666,269,Update User,200,OK,Load Test 1-14,text,true,,878,633,21,21,https://thinking-tester-contact-list.herokuapp.com/users/me,269,0,0
+1741613996681,312,Add User,201,Created,Load Test 1-5,text,true,,1274,501,22,22,https://thinking-tester-contact-list.herokuapp.com/users,312,0,0
+1741613995937,1073,Add User,201,Created,Load Test 1-17,text,true,,1274,336,22,22,https://thinking-tester-contact-list.herokuapp.com/users,1073,0,770
+1741613996741,274,Update User,200,OK,Load Test 1-3,text,true,,880,635,22,22,https://thinking-tester-contact-list.herokuapp.com/users/me,274,0,0
+1741613996733,282,Delete Contact,200,OK,Load Test 1-7,text,true,,752,603,22,22,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb032eaf700137a4c4d,282,0,0
+1741613996822,257,Get User Profile,200,OK,Load Test 1-16,text,true,,870,525,22,22,https://thinking-tester-contact-list.herokuapp.com/users/me,257,0,0
+1741613996820,266,Add Contact,201,Created,Load Test 1-13,text,true,,1001,807,22,22,https://thinking-tester-contact-list.herokuapp.com/contacts,266,0,0
+1741613996840,263,Delete Contact,200,OK,Load Test 1-8,text,true,,752,603,22,22,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb053c0aa001392f8b1,262,0,0
+1741613996826,281,Get Contacts,200,OK,Load Test 1-12,text,true,,1008,525,22,22,https://thinking-tester-contact-list.herokuapp.com/contacts,281,0,0
+1741613996830,282,Get User Profile,200,OK,Load Test 1-4,text,true,,870,525,22,22,https://thinking-tester-contact-list.herokuapp.com/users/me,282,0,0
+1741613996830,290,Add User,201,Created,Load Test 1-6,text,true,,1274,501,22,22,https://thinking-tester-contact-list.herokuapp.com/users,290,0,0
+1741613996830,291,Update User,200,OK,Load Test 1-2,text,true,,877,632,22,22,https://thinking-tester-contact-list.herokuapp.com/users/me,291,0,0
+1741613996855,270,Update User,200,OK,Load Test 1-15,text,true,,880,635,22,22,https://thinking-tester-contact-list.herokuapp.com/users/me,270,0,0
+1741613996993,264,Get User Profile,200,OK,Load Test 1-5,text,true,,870,525,23,23,https://thinking-tester-contact-list.herokuapp.com/users/me,264,0,0
+1741613996892,373,Add Contact,201,Created,Load Test 1-1,text,true,,1001,807,23,23,https://thinking-tester-contact-list.herokuapp.com/contacts,373,0,0
+1741613996135,1130,Add User,201,Created,Load Test 1-18,text,true,,1274,336,23,23,https://thinking-tester-contact-list.herokuapp.com/users,1130,0,740
+1741613996927,339,Delete Contact,200,OK,Load Test 1-9,text,true,,752,603,23,23,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb032eaf700137a4c4e,339,0,0
+1741613997012,256,Get User Profile,200,OK,Load Test 1-17,text,true,,870,525,23,23,https://thinking-tester-contact-list.herokuapp.com/users/me,256,0,0
+1741613996912,358,Patch Contact,200,OK,Load Test 1-10,text,true,,999,602,23,23,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb053c0aa001392f8b6,358,0,0
+1741613996927,346,Update Contact,200,OK,Load Test 1-11,text,true,,1032,836,23,23,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb132eaf700137a4c55,346,0,0
+1741613996935,338,Add Contact,201,Created,Load Test 1-14,text,true,,1011,817,23,23,https://thinking-tester-contact-list.herokuapp.com/contacts,338,0,0
+1741613997019,283,Add Contact,201,Created,Load Test 1-3,text,true,,1004,813,23,23,https://thinking-tester-contact-list.herokuapp.com/contacts,283,0,0
+1741613997023,294,Add User,201,Created,Load Test 1-7,text,true,,1274,501,23,23,https://thinking-tester-contact-list.herokuapp.com/users,293,0,0
+1741613997086,283,Get Contacts,200,OK,Load Test 1-13,text,true,,998,525,24,24,https://thinking-tester-contact-list.herokuapp.com/contacts,283,0,0
+1741613997121,256,Get User Profile,200,OK,Load Test 1-6,text,true,,870,525,24,24,https://thinking-tester-contact-list.herokuapp.com/users/me,256,0,0
+1741613997113,269,Update User,200,OK,Load Test 1-4,text,true,,877,632,24,24,https://thinking-tester-contact-list.herokuapp.com/users/me,269,0,0
+1741613997122,268,Add Contact,201,Created,Load Test 1-2,text,true,,1003,809,24,24,https://thinking-tester-contact-list.herokuapp.com/contacts,268,0,0
+1741613997125,271,Add Contact,201,Created,Load Test 1-15,text,true,,1004,813,24,24,https://thinking-tester-contact-list.herokuapp.com/contacts,271,0,0
+1741613997079,333,Update User,200,OK,Load Test 1-16,text,true,,877,632,24,24,https://thinking-tester-contact-list.herokuapp.com/users/me,333,0,0
+1741613996336,1079,Add User,201,Created,Load Test 1-19,text,true,,1274,336,24,24,https://thinking-tester-contact-list.herokuapp.com/users,1079,0,757
+1741613997107,314,Update Contact,200,OK,Load Test 1-12,text,true,,1039,843,24,24,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb153c0aa001392f8bc,314,0,0
+1741613997104,322,Add User,201,Created,Load Test 1-8,text,true,,1274,501,24,24,https://thinking-tester-contact-list.herokuapp.com/users,322,0,0
+1741613997270,264,Delete Contact,200,OK,Load Test 1-10,text,true,,752,603,24,24,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb053c0aa001392f8b6,264,0,0
+1741613997274,265,Get Contacts,200,OK,Load Test 1-14,text,true,,1008,525,25,25,https://thinking-tester-contact-list.herokuapp.com/contacts,265,0,0
+1741613997273,272,Patch Contact,200,OK,Load Test 1-11,text,true,,1001,602,25,25,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb132eaf700137a4c55,272,0,0
+1741613997266,279,Get User Profile,200,OK,Load Test 1-18,text,true,,870,525,25,25,https://thinking-tester-contact-list.herokuapp.com/users/me,279,0,0
+1741613997257,295,Update User,200,OK,Load Test 1-5,text,true,,880,635,25,25,https://thinking-tester-contact-list.herokuapp.com/users/me,295,0,0
+1741613997303,263,Get Contacts,200,OK,Load Test 1-3,text,true,,1001,525,25,25,https://thinking-tester-contact-list.herokuapp.com/contacts,263,0,0
+1741613997266,315,Get Contacts,200,OK,Load Test 1-1,text,true,,998,525,25,25,https://thinking-tester-contact-list.herokuapp.com/contacts,315,0,0
+1741613997317,271,Get User Profile,200,OK,Load Test 1-7,text,true,,870,525,25,25,https://thinking-tester-contact-list.herokuapp.com/users/me,271,0,0
+1741613997269,322,Update User,200,OK,Load Test 1-17,text,true,,877,632,25,25,https://thinking-tester-contact-list.herokuapp.com/users/me,321,0,0
+1741613996536,1054,Add User,201,Created,Load Test 1-20,text,true,,1274,336,25,25,https://thinking-tester-contact-list.herokuapp.com/users,1054,0,737
+1741613997267,325,Add User,201,Created,Load Test 1-9,text,true,,1274,501,25,25,https://thinking-tester-contact-list.herokuapp.com/users,325,0,0
+1741613997369,266,Update Contact,200,OK,Load Test 1-13,text,true,,1030,834,25,25,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb132eaf700137a4c56,266,0,0
+1741613997378,264,Update User,200,OK,Load Test 1-6,text,true,,877,632,25,25,https://thinking-tester-contact-list.herokuapp.com/users/me,264,0,0
+1741613997383,274,Add Contact,201,Created,Load Test 1-4,text,true,,1001,807,25,25,https://thinking-tester-contact-list.herokuapp.com/contacts,274,0,0
+1741613997397,265,Get Contacts,200,OK,Load Test 1-15,text,true,,1001,525,25,25,https://thinking-tester-contact-list.herokuapp.com/contacts,265,0,0
+1741613997391,273,Get Contacts,200,OK,Load Test 1-2,text,true,,1000,525,25,25,https://thinking-tester-contact-list.herokuapp.com/contacts,273,0,0
+1741613997415,249,Get User Profile,200,OK,Load Test 1-19,text,true,,870,525,25,25,https://thinking-tester-contact-list.herokuapp.com/users/me,249,0,0
+1741613997412,262,Add Contact,201,Created,Load Test 1-16,text,true,,1003,809,25,25,https://thinking-tester-contact-list.herokuapp.com/contacts,262,0,0
+1741613997427,257,Get User Profile,200,OK,Load Test 1-8,text,true,,870,525,25,25,https://thinking-tester-contact-list.herokuapp.com/users/me,257,0,0
+1741613997421,264,Patch Contact,200,OK,Load Test 1-12,text,true,,1009,602,25,25,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb153c0aa001392f8bc,264,0,0
+1741613996741,1024,Add User,201,Created,Load Test 1-21,text,true,,1274,336,26,26,https://thinking-tester-contact-list.herokuapp.com/users,1024,0,741
+1741613997546,282,Update User,200,OK,Load Test 1-18,text,true,,878,633,26,26,https://thinking-tester-contact-list.herokuapp.com/users/me,282,0,0
+1741613997540,288,Update Contact,200,OK,Load Test 1-14,text,true,,1038,843,26,26,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb132eaf700137a4c59,288,0,0
+1741613997552,278,Add Contact,201,Created,Load Test 1-5,text,true,,1004,813,26,26,https://thinking-tester-contact-list.herokuapp.com/contacts,278,0,0
+1741613997535,298,Add User,201,Created,Load Test 1-10,text,true,,1274,501,26,26,https://thinking-tester-contact-list.herokuapp.com/users,298,0,0
+1741613997566,268,Update Contact,200,OK,Load Test 1-3,text,true,,1030,837,26,26,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb132eaf700137a4c5b,268,0,0
+1741613997546,290,Delete Contact,200,OK,Load Test 1-11,text,true,,752,603,26,26,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb132eaf700137a4c55,290,0,0
+1741613997591,245,Get User Profile,200,OK,Load Test 1-20,text,true,,870,525,26,26,https://thinking-tester-contact-list.herokuapp.com/users/me,245,0,0
+1741613997594,247,Get User Profile,200,OK,Load Test 1-9,text,true,,870,525,26,26,https://thinking-tester-contact-list.herokuapp.com/users/me,247,0,0
+1741613997591,275,Add Contact,201,Created,Load Test 1-17,text,true,,1011,816,26,26,https://thinking-tester-contact-list.herokuapp.com/contacts,275,0,0
+1741613997589,269,Update User,200,OK,Load Test 1-7,text,true,,878,633,26,26,https://thinking-tester-contact-list.herokuapp.com/users/me,269,0,0
+1741613997582,267,Update Contact,200,OK,Load Test 1-1,text,true,,1030,834,26,26,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb153c0aa001392f8c4,267,0,0
+1741613997635,272,Patch Contact,200,OK,Load Test 1-13,text,true,,999,602,26,26,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb132eaf700137a4c56,272,0,0
+1741613997643,273,Add Contact,201,Created,Load Test 1-6,text,true,,1011,816,26,26,https://thinking-tester-contact-list.herokuapp.com/contacts,273,0,0
+1741613997766,482,Get User Profile,200,OK,Load Test 1-21,text,true,,870,525,28,28,https://thinking-tester-contact-list.herokuapp.com/users/me,482,0,0
+1741613997834,421,Get User Profile,200,OK,Load Test 1-10,text,true,,870,525,28,28,https://thinking-tester-contact-list.herokuapp.com/users/me,421,0,0
+1741613997657,605,Get Contacts,200,OK,Load Test 1-4,text,true,,998,525,28,28,https://thinking-tester-contact-list.herokuapp.com/contacts,605,0,0
+1741613997830,434,Get Contacts,200,OK,Load Test 1-5,text,true,,1001,525,28,28,https://thinking-tester-contact-list.herokuapp.com/contacts,434,0,0
+1741613997875,394,Patch Contact,200,OK,Load Test 1-1,text,true,,999,602,28,28,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb153c0aa001392f8c4,394,0,0
+1741613997829,442,Add Contact,201,Created,Load Test 1-18,text,true,,1011,817,28,28,https://thinking-tester-contact-list.herokuapp.com/contacts,442,0,0
+1741613997837,434,Update User,200,OK,Load Test 1-20,text,true,,878,633,28,28,https://thinking-tester-contact-list.herokuapp.com/users/me,434,0,0
+1741613997916,356,Get Contacts,200,OK,Load Test 1-6,text,true,,1008,525,28,28,https://thinking-tester-contact-list.herokuapp.com/contacts,356,0,0
+1741613996936,1341,Add User,201,Created,Load Test 1-22,text,true,,1274,336,28,28,https://thinking-tester-contact-list.herokuapp.com/users,1341,0,748
+1741613997842,436,Update User,200,OK,Load Test 1-9,text,true,,877,632,28,28,https://thinking-tester-contact-list.herokuapp.com/users/me,436,0,0
+1741613997829,449,Patch Contact,200,OK,Load Test 1-14,text,true,,1008,602,28,28,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb132eaf700137a4c59,449,0,0
+1741613997907,372,Delete Contact,200,OK,Load Test 1-13,text,true,,752,603,28,28,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb132eaf700137a4c56,372,0,0
+1741613997684,596,Update User,200,OK,Load Test 1-8,text,true,,880,635,28,28,https://thinking-tester-contact-list.herokuapp.com/users/me,596,0,0
+1741613997662,618,Update Contact,200,OK,Load Test 1-15,text,true,,1030,837,28,28,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb132eaf700137a4c5e,618,0,0
+1741613997674,606,Get Contacts,200,OK,Load Test 1-16,text,true,,1000,525,28,28,https://thinking-tester-contact-list.herokuapp.com/contacts,606,0,0
+1741613997875,409,Get Contacts,200,OK,Load Test 1-17,text,true,,1008,525,28,28,https://thinking-tester-contact-list.herokuapp.com/contacts,409,0,0
+1741613997835,449,Patch Contact,200,OK,Load Test 1-3,text,true,,999,602,28,28,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb132eaf700137a4c5b,449,0,0
+1741613997664,620,Update User,200,OK,Load Test 1-19,text,true,,877,632,28,28,https://thinking-tester-contact-list.herokuapp.com/users/me,620,0,0
+1741613997838,446,Add User,201,Created,Load Test 1-11,text,true,,1274,501,28,28,https://thinking-tester-contact-list.herokuapp.com/users,446,0,0
+1741613997664,621,Update Contact,200,OK,Load Test 1-2,text,true,,1032,836,28,28,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb132eaf700137a4c5d,621,0,0
+1741613997875,410,Add Contact,201,Created,Load Test 1-7,text,true,,1011,817,28,28,https://thinking-tester-contact-list.herokuapp.com/contacts,410,0,0
+1741613997686,605,Delete Contact,200,OK,Load Test 1-12,text,true,,752,603,28,28,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb153c0aa001392f8bc,605,0,0
+1741613997138,1155,Add User,201,Created,Load Test 1-23,text,true,,1274,336,28,28,https://thinking-tester-contact-list.herokuapp.com/users,1155,0,775
+1741613997337,1059,Add User,201,Created,Load Test 1-24,text,true,,1274,336,29,29,https://thinking-tester-contact-list.herokuapp.com/users,1059,0,771
+1741613998249,255,Update User,200,OK,Load Test 1-21,text,true,,877,632,29,29,https://thinking-tester-contact-list.herokuapp.com/users/me,255,0,0
+1741613998255,270,Update User,200,OK,Load Test 1-10,text,true,,878,633,29,29,https://thinking-tester-contact-list.herokuapp.com/users/me,270,0,0
+1741613998264,265,Update Contact,200,OK,Load Test 1-5,text,true,,1030,837,29,29,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb232eaf700137a4c67,265,0,0
+1741613998269,262,Delete Contact,200,OK,Load Test 1-1,text,true,,752,603,29,29,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb153c0aa001392f8c4,262,0,0
+1741613998272,260,Get Contacts,200,OK,Load Test 1-18,text,true,,1008,525,29,29,https://thinking-tester-contact-list.herokuapp.com/contacts,260,0,0
+1741613998263,271,Update Contact,200,OK,Load Test 1-4,text,true,,1030,834,28,28,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb232eaf700137a4c63,271,0,0
+1741613998272,267,Update Contact,200,OK,Load Test 1-6,text,true,,1039,843,29,29,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb253c0aa001392f8cb,267,0,0
+1741613998272,288,Add Contact,201,Created,Load Test 1-20,text,true,,1011,817,29,29,https://thinking-tester-contact-list.herokuapp.com/contacts,288,0,0
+1741613998278,288,Get User Profile,200,OK,Load Test 1-22,text,true,,870,525,29,29,https://thinking-tester-contact-list.herokuapp.com/users/me,288,0,0
+1741613998284,283,Delete Contact,200,OK,Load Test 1-3,text,true,,752,603,29,29,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb132eaf700137a4c5b,283,0,0
+1741613998279,296,Delete Contact,200,OK,Load Test 1-14,text,true,,752,603,28,28,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb132eaf700137a4c59,296,0,0
+1741613998284,296,Get User Profile,200,OK,Load Test 1-11,text,true,,870,525,28,28,https://thinking-tester-contact-list.herokuapp.com/users/me,296,0,0
+1741613998284,300,Add Contact,201,Created,Load Test 1-19,text,true,,1011,816,28,28,https://thinking-tester-contact-list.herokuapp.com/contacts,300,0,0
+1741613998285,301,Get Contacts,200,OK,Load Test 1-7,text,true,,1008,525,28,28,https://thinking-tester-contact-list.herokuapp.com/contacts,301,0,0
+1741613998280,313,Update Contact,200,OK,Load Test 1-16,text,true,,1032,836,28,28,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb232eaf700137a4c64,313,0,0
+1741613998280,317,Patch Contact,200,OK,Load Test 1-15,text,true,,999,602,28,28,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb132eaf700137a4c5e,317,0,0
+1741613998279,319,Add Contact,201,Created,Load Test 1-9,text,true,,1011,816,28,28,https://thinking-tester-contact-list.herokuapp.com/contacts,319,0,0
+1741613998292,310,Add User,201,Created,Load Test 1-12,text,true,,1274,501,28,28,https://thinking-tester-contact-list.herokuapp.com/users,310,0,0
+1741613998280,324,Add Contact,201,Created,Load Test 1-8,text,true,,1004,813,28,28,https://thinking-tester-contact-list.herokuapp.com/contacts,324,0,0
+1741613998284,321,Update Contact,200,OK,Load Test 1-17,text,true,,1039,843,28,28,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb232eaf700137a4c68,321,0,0
+1741613998294,311,Get User Profile,200,OK,Load Test 1-23,text,true,,870,525,28,28,https://thinking-tester-contact-list.herokuapp.com/users/me,311,0,0
+1741613998280,332,Add User,201,Created,Load Test 1-13,text,true,,1274,501,28,28,https://thinking-tester-contact-list.herokuapp.com/users,332,0,0
+1741613997539,1084,Add User,201,Created,Load Test 1-25,text,true,,1274,336,28,28,https://thinking-tester-contact-list.herokuapp.com/users,1084,0,776
+1741613998285,341,Patch Contact,200,OK,Load Test 1-2,text,true,,1001,602,28,28,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb132eaf700137a4c5d,340,0,0
+1741613998396,251,Get User Profile,200,OK,Load Test 1-24,text,true,,870,525,28,28,https://thinking-tester-contact-list.herokuapp.com/users/me,251,0,0
+1741613998532,260,Update Contact,200,OK,Load Test 1-18,text,true,,1038,843,29,29,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb253c0aa001392f8ce,260,0,0
+1741613997741,1052,Add User,201,Created,Load Test 1-26,text,true,,1274,336,29,29,https://thinking-tester-contact-list.herokuapp.com/users,1052,0,759
+1741613998504,294,Add Contact,201,Created,Load Test 1-21,text,true,,1003,809,29,29,https://thinking-tester-contact-list.herokuapp.com/contacts,294,0,0
+1741613998525,278,Add Contact,201,Created,Load Test 1-10,text,true,,1011,817,29,29,https://thinking-tester-contact-list.herokuapp.com/contacts,278,0,0
+1741613998529,281,Patch Contact,200,OK,Load Test 1-5,text,true,,999,602,29,29,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb232eaf700137a4c67,281,0,0
+1741613998612,649,Get User Profile,200,OK,Load Test 1-13,text,true,,870,525,31,31,https://thinking-tester-contact-list.herokuapp.com/users/me,649,0,0
+1741613998799,472,Get Contacts,200,OK,Load Test 1-21,text,true,,1000,525,31,31,https://thinking-tester-contact-list.herokuapp.com/contacts,472,0,0
+1741613998794,477,Get User Profile,200,OK,Load Test 1-26,text,true,,870,525,31,31,https://thinking-tester-contact-list.herokuapp.com/users/me,477,0,0
+1741613998624,649,Get User Profile,200,OK,Load Test 1-25,text,true,,870,525,31,31,https://thinking-tester-contact-list.herokuapp.com/users/me,649,0,0
+1741613998604,673,Get Contacts,200,OK,Load Test 1-8,text,true,,1001,525,31,31,https://thinking-tester-contact-list.herokuapp.com/contacts,673,0,0
+1741613998560,726,Get Contacts,200,OK,Load Test 1-20,text,true,,1008,525,31,31,https://thinking-tester-contact-list.herokuapp.com/contacts,726,0,0
+1741613998585,701,Get Contacts,200,OK,Load Test 1-19,text,true,,1008,525,31,31,https://thinking-tester-contact-list.herokuapp.com/contacts,701,0,0
+1741613998602,686,Get User Profile,200,OK,Load Test 1-12,text,true,,870,525,31,31,https://thinking-tester-contact-list.herokuapp.com/users/me,686,0,0
+1741613998586,706,Update Contact,200,OK,Load Test 1-7,text,true,,1038,843,31,31,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb253c0aa001392f8cd,706,0,0
+1741613998804,492,Get Contacts,200,OK,Load Test 1-10,text,true,,1008,525,31,31,https://thinking-tester-contact-list.herokuapp.com/contacts,492,0,0
+1741613998575,725,Add User,201,Created,Load Test 1-14,text,true,,1274,501,31,31,https://thinking-tester-contact-list.herokuapp.com/users,725,0,0
+1741613998567,735,Update User,200,OK,Load Test 1-22,text,true,,877,632,31,31,https://thinking-tester-contact-list.herokuapp.com/users/me,735,0,0
+1741613998581,724,Update User,200,OK,Load Test 1-11,text,true,,877,632,31,31,https://thinking-tester-contact-list.herokuapp.com/users/me,724,0,0
+1741613998810,499,Delete Contact,200,OK,Load Test 1-5,text,true,,752,603,31,31,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb232eaf700137a4c67,499,0,0
+1741613998539,774,Patch Contact,200,OK,Load Test 1-6,text,true,,1009,602,30,30,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb253c0aa001392f8cb,774,0,0
+1741613998647,668,Update User,200,OK,Load Test 1-24,text,true,,877,632,30,30,https://thinking-tester-contact-list.herokuapp.com/users/me,668,0,0
+1741613998534,781,Patch Contact,200,OK,Load Test 1-4,text,true,,999,602,30,30,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb232eaf700137a4c63,781,0,0
+1741613998793,525,Patch Contact,200,OK,Load Test 1-18,text,true,,1008,602,30,30,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb253c0aa001392f8ce,525,0,0
+1741613998599,719,Get Contacts,200,OK,Load Test 1-9,text,true,,1008,525,30,30,https://thinking-tester-contact-list.herokuapp.com/contacts,719,0,0
+1741613998606,713,Update User,200,OK,Load Test 1-23,text,true,,877,632,30,30,https://thinking-tester-contact-list.herokuapp.com/users/me,713,0,0
+1741613998597,724,Delete Contact,200,OK,Load Test 1-15,text,true,,752,603,30,30,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb132eaf700137a4c5e,724,0,0
+1741613997936,1385,Add User,201,Created,Load Test 1-27,text,true,,1274,336,30,30,https://thinking-tester-contact-list.herokuapp.com/users,1385,0,795
+1741613998137,1185,Add User,201,Created,Load Test 1-28,text,true,,1274,336,30,30,https://thinking-tester-contact-list.herokuapp.com/users,1185,0,751
+1741613998595,728,Patch Contact,200,OK,Load Test 1-16,text,true,,1001,602,30,30,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb232eaf700137a4c64,728,0,0
+1741613998626,698,Delete Contact,200,OK,Load Test 1-2,text,true,,752,603,30,30,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb132eaf700137a4c5d,698,0,0
+1741613998606,718,Patch Contact,200,OK,Load Test 1-17,text,true,,1009,602,30,30,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb232eaf700137a4c68,718,0,0
+1741613998338,1071,Add User,201,Created,Load Test 1-29,text,true,,1274,336,30,30,https://thinking-tester-contact-list.herokuapp.com/users,1071,0,777
+1741613999262,267,Update User,200,OK,Load Test 1-13,text,true,,880,635,30,30,https://thinking-tester-contact-list.herokuapp.com/users/me,267,0,0
+1741613999272,261,Update Contact,200,OK,Load Test 1-21,text,true,,1032,836,30,30,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb353c0aa001392f8db,261,0,0
+1741613999272,268,Update User,200,OK,Load Test 1-26,text,true,,877,632,31,31,https://thinking-tester-contact-list.herokuapp.com/users/me,268,0,0
+1741613999274,270,Update User,200,OK,Load Test 1-25,text,true,,880,635,31,31,https://thinking-tester-contact-list.herokuapp.com/users/me,270,0,0
+1741613999278,269,Update Contact,200,OK,Load Test 1-8,text,true,,1030,837,31,31,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb253c0aa001392f8d4,269,0,0
+1741613999287,260,Update Contact,200,OK,Load Test 1-20,text,true,,1038,843,31,31,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb253c0aa001392f8d2,260,0,0
+1741613999287,268,Update Contact,200,OK,Load Test 1-19,text,true,,1039,843,31,31,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb232eaf700137a4c6e,268,0,0
+1741613999289,267,Update User,200,OK,Load Test 1-12,text,true,,877,632,31,31,https://thinking-tester-contact-list.herokuapp.com/users/me,267,0,0
+1741613999301,260,Get User Profile,200,OK,Load Test 1-14,text,true,,870,525,31,31,https://thinking-tester-contact-list.herokuapp.com/users/me,260,0,0
+1741613999297,271,Update Contact,200,OK,Load Test 1-10,text,true,,1038,843,31,31,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb353c0aa001392f8dc,271,0,0
+1741613999292,278,Patch Contact,200,OK,Load Test 1-7,text,true,,1008,602,31,31,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb253c0aa001392f8cd,278,0,0
+1741613999316,276,Add Contact,201,Created,Load Test 1-24,text,true,,1001,807,31,31,https://thinking-tester-contact-list.herokuapp.com/contacts,276,0,0
+1741613999314,281,Delete Contact,200,OK,Load Test 1-6,text,true,,752,603,31,31,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb253c0aa001392f8cb,281,0,0
+1741613999322,278,Get User Profile,200,OK,Load Test 1-28,text,true,,870,525,30,30,https://thinking-tester-contact-list.herokuapp.com/users/me,278,0,0
+1741613999316,287,Delete Contact,200,OK,Load Test 1-4,text,true,,752,603,30,30,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb232eaf700137a4c63,287,0,0
+1741613999319,284,Delete Contact,200,OK,Load Test 1-18,text,true,,752,603,30,30,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb253c0aa001392f8ce,284,0,0
+1741613999324,280,Delete Contact,200,OK,Load Test 1-17,text,true,,752,603,30,30,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb232eaf700137a4c68,280,0,0
+1741613999302,302,Add Contact,201,Created,Load Test 1-22,text,true,,1001,807,30,30,https://thinking-tester-contact-list.herokuapp.com/contacts,302,0,0
+1741613999322,292,Get User Profile,200,OK,Load Test 1-27,text,true,,870,525,29,29,https://thinking-tester-contact-list.herokuapp.com/users/me,292,0,0
+1741613999319,298,Add Contact,201,Created,Load Test 1-23,text,true,,1003,809,29,29,https://thinking-tester-contact-list.herokuapp.com/contacts,298,0,0
+1741613999306,314,Add Contact,201,Created,Load Test 1-11,text,true,,1011,816,29,29,https://thinking-tester-contact-list.herokuapp.com/contacts,314,0,0
+1741613999319,303,Update Contact,200,OK,Load Test 1-9,text,true,,1039,843,29,29,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb253c0aa001392f8d5,303,0,0
+1741613999323,300,Delete Contact,200,OK,Load Test 1-16,text,true,,752,603,29,29,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb232eaf700137a4c64,300,0,0
+1741613998535,1094,Add User,201,Created,Load Test 1-30,text,true,,1274,336,29,29,https://thinking-tester-contact-list.herokuapp.com/users,1094,0,768
+1741613999322,313,Add User,201,Created,Load Test 1-15,text,true,,1274,501,29,29,https://thinking-tester-contact-list.herokuapp.com/users,313,0,0
+1741613999410,276,Get User Profile,200,OK,Load Test 1-29,text,true,,870,525,29,29,https://thinking-tester-contact-list.herokuapp.com/users/me,276,0,0
+1741613998737,1044,Add User,201,Created,Load Test 1-31,text,true,,1274,336,30,30,https://thinking-tester-contact-list.herokuapp.com/users,1044,0,748
+1741613999534,263,Patch Contact,200,OK,Load Test 1-21,text,true,,1001,602,30,30,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb353c0aa001392f8db,263,0,0
+1741613999530,272,Add Contact,201,Created,Load Test 1-13,text,true,,1004,813,30,30,https://thinking-tester-contact-list.herokuapp.com/contacts,272,0,0
+1741613999782,481,Get User Profile,200,OK,Load Test 1-31,text,true,,870,525,32,32,https://thinking-tester-contact-list.herokuapp.com/users/me,481,0,0
+1741613999630,644,Get User Profile,200,OK,Load Test 1-30,text,true,,870,525,32,32,https://thinking-tester-contact-list.herokuapp.com/users/me,644,0,0
+1741613999636,642,Get User Profile,200,OK,Load Test 1-15,text,true,,870,525,32,32,https://thinking-tester-contact-list.herokuapp.com/users/me,641,0,0
+1741613999605,673,Get Contacts,200,OK,Load Test 1-22,text,true,,998,525,32,32,https://thinking-tester-contact-list.herokuapp.com/contacts,672,0,0
+1741613999619,660,Add User,400,Bad Request,Load Test 1-17,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[400]]]
+
+****** comparison: [[[201]]]
+
+/",799,501,32,32,https://thinking-tester-contact-list.herokuapp.com/users,660,0,0
+1741613999592,688,Get Contacts,200,OK,Load Test 1-24,text,true,,998,525,32,32,https://thinking-tester-contact-list.herokuapp.com/contacts,688,0,0
+1741613998940,1340,Add User,201,Created,Load Test 1-32,text,true,,1274,336,32,32,https://thinking-tester-contact-list.herokuapp.com/users,1340,0,766
+1741613999618,662,Get Contacts,200,OK,Load Test 1-23,text,true,,1000,525,32,32,https://thinking-tester-contact-list.herokuapp.com/contacts,662,0,0
+1741613999541,740,Add Contact,201,Created,Load Test 1-26,text,true,,1003,809,32,32,https://thinking-tester-contact-list.herokuapp.com/contacts,740,0,0
+1741613999545,739,Add Contact,201,Created,Load Test 1-25,text,true,,1004,813,32,32,https://thinking-tester-contact-list.herokuapp.com/contacts,739,0,0
+1741613999548,738,Patch Contact,200,OK,Load Test 1-8,text,true,,999,602,32,32,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb253c0aa001392f8d4,738,0,0
+1741613999557,729,Add Contact,201,Created,Load Test 1-12,text,true,,1003,809,32,32,https://thinking-tester-contact-list.herokuapp.com/contacts,729,0,0
+1741613999562,725,Update User,200,OK,Load Test 1-14,text,true,,878,633,32,32,https://thinking-tester-contact-list.herokuapp.com/users/me,725,0,0
+1741613999614,673,Update User,200,OK,Load Test 1-27,text,true,,877,632,32,32,https://thinking-tester-contact-list.herokuapp.com/users/me,673,0,0
+1741613999570,717,Delete Contact,200,OK,Load Test 1-7,text,true,,752,603,32,32,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb253c0aa001392f8cd,717,0,0
+1741613999621,666,Get Contacts,200,OK,Load Test 1-11,text,true,,1008,525,32,32,https://thinking-tester-contact-list.herokuapp.com/contacts,666,0,0
+1741613999548,745,Patch Contact,200,OK,Load Test 1-20,text,true,,1008,602,31,31,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb253c0aa001392f8d2,745,0,0
+1741613999619,674,Add User,201,Created,Load Test 1-18,text,true,,1274,501,31,31,https://thinking-tester-contact-list.herokuapp.com/users,674,0,0
+1741613999622,672,Patch Contact,200,OK,Load Test 1-9,text,true,,1009,602,31,31,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb253c0aa001392f8d5,672,0,0
+1741613999555,739,Patch Contact,200,OK,Load Test 1-19,text,true,,1009,602,31,31,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb232eaf700137a4c6e,739,0,0
+1741613999803,492,Get Contacts,200,OK,Load Test 1-13,text,true,,1001,525,31,31,https://thinking-tester-contact-list.herokuapp.com/contacts,492,0,0
+1741613999687,609,Update User,200,OK,Load Test 1-29,text,true,,877,632,31,31,https://thinking-tester-contact-list.herokuapp.com/users/me,609,0,0
+1741613999568,729,Patch Contact,200,OK,Load Test 1-10,text,true,,1008,602,31,31,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb353c0aa001392f8dc,729,0,0
+1741613999136,1161,Add User,201,Created,Load Test 1-33,text,true,,1274,336,31,31,https://thinking-tester-contact-list.herokuapp.com/users,1161,0,752
+1741613999623,674,Add User,201,Created,Load Test 1-16,text,true,,1274,501,31,31,https://thinking-tester-contact-list.herokuapp.com/users,674,0,0
+1741613999797,507,Delete Contact,200,OK,Load Test 1-21,text,true,,752,603,31,31,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb353c0aa001392f8db,507,0,0
+1741613999601,734,Update User,200,OK,Load Test 1-28,text,true,,878,633,31,31,https://thinking-tester-contact-list.herokuapp.com/users/me,734,0,0
+1741613999337,1032,Add User,201,Created,Load Test 1-34,text,true,,1274,336,32,32,https://thinking-tester-contact-list.herokuapp.com/users,1032,0,749
+1741614000264,261,Update User,200,OK,Load Test 1-31,text,true,,880,635,32,32,https://thinking-tester-contact-list.herokuapp.com/users/me,261,0,0
+1741614000280,255,Get User Profile,401,Unauthorized,Load Test 1-17,text,false,Test failed: code expected to contain /200/,787,376,32,32,https://thinking-tester-contact-list.herokuapp.com/users/me,255,0,0
+1741614000274,266,Update User,200,OK,Load Test 1-30,text,true,,877,632,33,33,https://thinking-tester-contact-list.herokuapp.com/users/me,266,0,0
+1741614000279,264,Update Contact,200,OK,Load Test 1-22,text,true,,1030,834,33,33,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb353c0aa001392f8e4,264,0,0
+1741614000281,266,Update Contact,200,OK,Load Test 1-23,text,true,,1032,836,33,33,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb432eaf700137a4c73,266,0,0
+1741614000279,277,Update User,200,OK,Load Test 1-15,text,true,,877,632,33,33,https://thinking-tester-contact-list.herokuapp.com/users/me,277,0,0
+1741614000294,401,Get User Profile,200,OK,Load Test 1-18,text,true,,870,525,33,33,https://thinking-tester-contact-list.herokuapp.com/users/me,401,0,0
+1741614000287,410,Delete Contact,200,OK,Load Test 1-8,text,true,,752,603,33,33,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb253c0aa001392f8d4,410,0,0
+1741614000280,417,Get User Profile,200,OK,Load Test 1-32,text,true,,870,525,33,33,https://thinking-tester-contact-list.herokuapp.com/users/me,417,0,0
+1741614000287,410,Add Contact,201,Created,Load Test 1-14,text,true,,1011,817,33,33,https://thinking-tester-contact-list.herokuapp.com/contacts,410,0,0
+1741614000288,409,Add Contact,201,Created,Load Test 1-27,text,true,,1001,807,33,33,https://thinking-tester-contact-list.herokuapp.com/contacts,409,0,0
+1741614000281,416,Get Contacts,200,OK,Load Test 1-26,text,true,,1000,525,32,32,https://thinking-tester-contact-list.herokuapp.com/contacts,416,0,0
+1741614000295,404,Delete Contact,200,OK,Load Test 1-19,text,true,,752,603,32,32,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb232eaf700137a4c6e,404,0,0
+1741614000284,414,Get Contacts,200,OK,Load Test 1-25,text,true,,1001,525,32,32,https://thinking-tester-contact-list.herokuapp.com/contacts,414,0,0
+1741614000298,401,Get User Profile,200,OK,Load Test 1-33,text,true,,870,525,32,32,https://thinking-tester-contact-list.herokuapp.com/users/me,401,0,0
+1741614000297,404,Delete Contact,200,OK,Load Test 1-10,text,true,,752,603,32,32,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb353c0aa001392f8dc,404,0,0
+1741614000294,408,Delete Contact,200,OK,Load Test 1-9,text,true,,752,603,32,32,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb253c0aa001392f8d5,408,0,0
+1741614000298,402,Get User Profile,200,OK,Load Test 1-16,text,true,,870,525,32,32,https://thinking-tester-contact-list.herokuapp.com/users/me,402,0,0
+1741614000370,333,Get User Profile,200,OK,Load Test 1-34,text,true,,874,525,30,30,https://thinking-tester-contact-list.herokuapp.com/users/me,333,0,0
+1741614000305,398,Add User,201,Created,Load Test 1-21,text,true,,1274,501,30,30,https://thinking-tester-contact-list.herokuapp.com/users,398,0,0
+1741613999539,1164,Add User,201,Created,Load Test 1-35,text,true,,1274,336,30,30,https://thinking-tester-contact-list.herokuapp.com/users,1164,0,765
+1741614000297,406,Add Contact,201,Created,Load Test 1-29,text,true,,1011,816,30,30,https://thinking-tester-contact-list.herokuapp.com/contacts,406,0,0
+1741614000295,408,Update Contact,200,OK,Load Test 1-13,text,true,,1030,837,30,30,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb432eaf700137a4c74,408,0,0
+1741614000335,368,Add Contact,201,Created,Load Test 1-28,text,true,,1011,817,30,30,https://thinking-tester-contact-list.herokuapp.com/contacts,368,0,0
+1741614000288,416,Update Contact,200,OK,Load Test 1-11,text,true,,1039,843,30,30,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb453c0aa001392f8e7,416,0,0
+1741614000287,417,Get Contacts,200,OK,Load Test 1-12,text,true,,1000,525,30,30,https://thinking-tester-contact-list.herokuapp.com/contacts,417,0,0
+1741613999737,1049,Add User,201,Created,Load Test 1-36,text,true,,1278,336,31,31,https://thinking-tester-contact-list.herokuapp.com/users,1049,0,753
+1741614000525,262,Add Contact,201,Created,Load Test 1-31,text,true,,1008,813,31,31,https://thinking-tester-contact-list.herokuapp.com/contacts,262,0,0
+1741614000535,253,Update User,401,Unauthorized,Load Test 1-17,text,false,Test failed: code expected to contain /200/,791,432,31,31,https://thinking-tester-contact-list.herokuapp.com/users/me,253,0,0
+1741614000540,263,Add Contact,201,Created,Load Test 1-30,text,true,,1005,807,31,31,https://thinking-tester-contact-list.herokuapp.com/contacts,263,0,0
+1741614000789,260,Add Contact,401,Unauthorized,Load Test 1-17,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[4]]]01
+
+****** comparison: [[[2]]]01
+
+/",791,667,32,32,https://thinking-tester-contact-list.herokuapp.com/contacts,260,0,0
+1741614000294,796,Delete Contact,200,OK,Load Test 1-20,text,true,,752,603,32,32,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb253c0aa001392f8d2,796,0,0
+1741614000280,820,Update Contact,200,OK,Load Test 1-24,text,true,,1030,834,32,32,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb332eaf700137a4c72,820,0,0
+1741614000703,560,Get User Profile,200,OK,Load Test 1-21,text,true,,874,525,33,33,https://thinking-tester-contact-list.herokuapp.com/users/me,560,0,0
+1741614000704,565,Get User Profile,200,OK,Load Test 1-35,text,true,,874,525,33,33,https://thinking-tester-contact-list.herokuapp.com/users/me,565,0,0
+1741614000787,488,Get User Profile,200,OK,Load Test 1-36,text,true,,874,525,33,33,https://thinking-tester-contact-list.herokuapp.com/users/me,488,0,0
+1741614000698,580,Get Contacts,200,OK,Load Test 1-27,text,true,,1002,525,33,33,https://thinking-tester-contact-list.herokuapp.com/contacts,580,0,0
+1741614000703,586,Update User,200,OK,Load Test 1-34,text,true,,882,633,33,33,https://thinking-tester-contact-list.herokuapp.com/users/me,586,0,0
+1741614000704,586,Get Contacts,200,OK,Load Test 1-28,text,true,,1012,525,33,33,https://thinking-tester-contact-list.herokuapp.com/contacts,586,0,0
+1741614000543,748,Patch Contact,200,OK,Load Test 1-22,text,true,,1003,602,33,33,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb353c0aa001392f8e4,748,0,0
+1741614000698,600,Update User,200,OK,Load Test 1-32,text,true,,881,632,33,33,https://thinking-tester-contact-list.herokuapp.com/users/me,600,0,0
+1741614000696,604,Update User,200,OK,Load Test 1-18,text,true,,881,632,33,33,https://thinking-tester-contact-list.herokuapp.com/users/me,604,0,0
+1741614001050,256,Get Contacts,401,Unauthorized,Load Test 1-17,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",791,376,33,33,https://thinking-tester-contact-list.herokuapp.com/contacts,256,0,0
+1741614000557,750,Add Contact,201,Created,Load Test 1-15,text,true,,1005,807,33,33,https://thinking-tester-contact-list.herokuapp.com/contacts,750,0,0
+1741614000705,604,Update Contact,200,OK,Load Test 1-12,text,true,,1036,836,33,33,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb432eaf700137a4c78,604,0,0
+1741614000804,505,Get Contacts,200,OK,Load Test 1-30,text,true,,1002,525,33,33,https://thinking-tester-contact-list.herokuapp.com/contacts,505,0,0
+1741614000698,612,Update Contact,200,OK,Load Test 1-26,text,true,,1036,836,33,33,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb453c0aa001392f8ef,612,0,0
+1741614000702,609,Update Contact,200,OK,Load Test 1-25,text,true,,1034,837,33,33,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb432eaf700137a4c77,609,0,0
+1741614000701,610,Add User,201,Created,Load Test 1-19,text,true,,1278,501,33,33,https://thinking-tester-contact-list.herokuapp.com/users,610,0,0
+1741614000698,614,Get Contacts,200,OK,Load Test 1-14,text,true,,1012,525,33,33,https://thinking-tester-contact-list.herokuapp.com/contacts,614,0,0
+1741614000702,611,Update User,200,OK,Load Test 1-16,text,true,,881,632,33,33,https://thinking-tester-contact-list.herokuapp.com/users/me,611,0,0
+1741614000704,609,Get Contacts,200,OK,Load Test 1-29,text,true,,1012,525,33,33,https://thinking-tester-contact-list.herokuapp.com/contacts,609,0,0
+1741614000704,612,Patch Contact,200,OK,Load Test 1-13,text,true,,1003,602,33,33,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb432eaf700137a4c74,612,0,0
+1741614000701,620,Update User,200,OK,Load Test 1-33,text,true,,881,632,33,33,https://thinking-tester-contact-list.herokuapp.com/users/me,620,0,0
+1741614000138,1183,Add User,201,Created,Load Test 1-38,text,true,,1278,336,33,33,https://thinking-tester-contact-list.herokuapp.com/users,1183,0,813
+1741614000787,535,Get Contacts,200,OK,Load Test 1-31,text,true,,1005,525,33,33,https://thinking-tester-contact-list.herokuapp.com/contacts,535,0,0
+1741614000705,622,Patch Contact,200,OK,Load Test 1-11,text,true,,1013,602,33,33,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb453c0aa001392f8e7,622,0,0
+1741613999937,1390,Add User,201,Created,Load Test 1-37,text,true,,1278,336,33,33,https://thinking-tester-contact-list.herokuapp.com/users,1390,0,765
+1741614000548,780,Patch Contact,200,OK,Load Test 1-23,text,true,,1005,602,33,33,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb432eaf700137a4c73,780,0,0
+1741614001101,267,Patch Contact,200,OK,Load Test 1-24,text,true,,1003,602,34,34,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb332eaf700137a4c72,267,0,0
+1741614001090,288,Add User,201,Created,Load Test 1-20,text,true,,1278,501,34,34,https://thinking-tester-contact-list.herokuapp.com/users,288,0,0
+1741614000336,1148,Add User,201,Created,Load Test 1-39,text,true,,1278,336,34,34,https://thinking-tester-contact-list.herokuapp.com/users,1148,0,865
+1741614001264,256,Update User,200,OK,Load Test 1-21,text,true,,881,632,34,34,https://thinking-tester-contact-list.herokuapp.com/users/me,256,0,0
+1741614001270,261,Update User,200,OK,Load Test 1-35,text,true,,884,635,34,34,https://thinking-tester-contact-list.herokuapp.com/users/me,261,0,0
+1741614001276,261,Update User,200,OK,Load Test 1-36,text,true,,882,633,35,35,https://thinking-tester-contact-list.herokuapp.com/users/me,261,0,0
+1741614001279,265,Update Contact,200,OK,Load Test 1-27,text,true,,1034,834,35,35,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb453c0aa001392f8f2,265,0,0
+1741614001290,259,Add Contact,201,Created,Load Test 1-34,text,true,,1015,817,35,35,https://thinking-tester-contact-list.herokuapp.com/contacts,259,0,0
+1741614001291,262,Update Contact,200,OK,Load Test 1-28,text,true,,1042,843,35,35,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb553c0aa001392f8f5,262,0,0
+1741614001300,259,Add Contact,201,Created,Load Test 1-18,text,true,,1007,809,35,35,https://thinking-tester-contact-list.herokuapp.com/contacts,259,0,0
+1741614001299,261,Add Contact,201,Created,Load Test 1-32,text,true,,1007,809,35,35,https://thinking-tester-contact-list.herokuapp.com/contacts,261,0,0
+1741614001308,260,Get Contacts,200,OK,Load Test 1-15,text,true,,1002,525,35,35,https://thinking-tester-contact-list.herokuapp.com/contacts,260,0,0
+1741614001292,288,Delete Contact,200,OK,Load Test 1-22,text,true,,756,603,35,35,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb353c0aa001392f8e4,288,0,0
+1741614001311,269,Patch Contact,200,OK,Load Test 1-26,text,true,,1005,602,35,35,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb453c0aa001392f8ef,269,0,0
+1741614001322,259,Get User Profile,200,OK,Load Test 1-38,text,true,,874,525,35,35,https://thinking-tester-contact-list.herokuapp.com/users/me,259,0,0
+1741614001313,271,Update Contact,200,OK,Load Test 1-14,text,true,,1042,843,35,35,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb453c0aa001392f8f3,270,0,0
+1741614001311,276,Get User Profile,200,OK,Load Test 1-19,text,true,,874,525,35,35,https://thinking-tester-contact-list.herokuapp.com/users/me,276,0,0
+1741614001311,289,Patch Contact,200,OK,Load Test 1-25,text,true,,1003,602,35,35,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb432eaf700137a4c77,289,0,0
+1741614001321,279,Add Contact,201,Created,Load Test 1-33,text,true,,1015,816,35,35,https://thinking-tester-contact-list.herokuapp.com/contacts,279,0,0
+1741614000536,1064,Add User,201,Created,Load Test 1-40,text,true,,1278,336,35,35,https://thinking-tester-contact-list.herokuapp.com/users,1064,0,755
+1741614001322,281,Update Contact,200,OK,Load Test 1-31,text,true,,1034,837,35,35,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb553c0aa001392f8f7,281,0,0
+1741614001316,287,Delete Contact,200,OK,Load Test 1-13,text,true,,756,603,35,35,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb432eaf700137a4c74,287,0,0
+1741614001310,298,Update Contact,200,OK,Load Test 1-30,text,true,,1034,834,34,34,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb553c0aa001392f8f8,298,0,0
+1741614001328,283,Get User Profile,200,OK,Load Test 1-37,text,true,,874,525,34,34,https://thinking-tester-contact-list.herokuapp.com/users/me,283,0,0
+1741614001313,300,Add Contact,201,Created,Load Test 1-16,text,true,,1005,807,34,34,https://thinking-tester-contact-list.herokuapp.com/contacts,300,0,0
+1741614001330,285,Delete Contact,200,OK,Load Test 1-23,text,true,,756,603,34,34,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb432eaf700137a4c73,285,0,0
+1741614001328,288,Delete Contact,200,OK,Load Test 1-11,text,true,,756,603,34,34,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb453c0aa001392f8e7,288,0,0
+1741614001313,309,Update Contact,200,OK,Load Test 1-29,text,true,,1043,843,33,33,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb532eaf700137a4c7d,309,0,0
+1741614001378,882,Get User Profile,200,OK,Load Test 1-20,text,true,,870,525,36,36,https://thinking-tester-contact-list.herokuapp.com/users/me,882,0,0
+1741614001601,660,Get User Profile,200,OK,Load Test 1-40,text,true,,870,525,36,36,https://thinking-tester-contact-list.herokuapp.com/users/me,660,0,0
+1741614001485,779,Get User Profile,200,OK,Load Test 1-39,text,true,,870,525,36,36,https://thinking-tester-contact-list.herokuapp.com/users/me,779,0,0
+1741614001560,708,Get Contacts,200,OK,Load Test 1-18,text,true,,1000,525,36,36,https://thinking-tester-contact-list.herokuapp.com/contacts,708,0,0
+1741614001550,720,Get Contacts,200,OK,Load Test 1-34,text,true,,1008,525,36,36,https://thinking-tester-contact-list.herokuapp.com/contacts,720,0,0
+1741614001561,719,Get Contacts,200,OK,Load Test 1-32,text,true,,1000,525,36,36,https://thinking-tester-contact-list.herokuapp.com/contacts,719,0,0
+1741614001581,700,Update User,200,OK,Load Test 1-38,text,true,,877,632,36,36,https://thinking-tester-contact-list.herokuapp.com/users/me,700,0,0
+1741614001521,760,Add Contact,201,Created,Load Test 1-21,text,true,,1011,816,36,36,https://thinking-tester-contact-list.herokuapp.com/contacts,760,0,0
+1741614001374,909,Delete Contact,200,OK,Load Test 1-24,text,true,,752,603,36,36,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb332eaf700137a4c72,909,0,0
+1741614001569,717,Update Contact,200,OK,Load Test 1-15,text,true,,1030,834,36,36,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb553c0aa001392f8fc,717,0,0
+1741614001532,754,Add Contact,201,Created,Load Test 1-35,text,true,,1004,813,36,36,https://thinking-tester-contact-list.herokuapp.com/contacts,754,0,0
+1741614001310,977,Patch Contact,200,OK,Load Test 1-12,text,true,,1005,602,36,36,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb432eaf700137a4c78,977,0,0
+1741614001601,689,Get Contacts,200,OK,Load Test 1-33,text,true,,1008,525,36,36,https://thinking-tester-contact-list.herokuapp.com/contacts,689,0,0
+1741614001537,754,Add Contact,201,Created,Load Test 1-36,text,true,,1011,817,36,36,https://thinking-tester-contact-list.herokuapp.com/contacts,754,0,0
+1741614001581,710,Add User,201,Created,Load Test 1-22,text,true,,1274,501,36,36,https://thinking-tester-contact-list.herokuapp.com/users,710,0,0
+1741614000737,1555,Add User,201,Created,Load Test 1-41,text,true,,1274,336,36,36,https://thinking-tester-contact-list.herokuapp.com/users,1555,0,757
+1741614001613,685,Get Contacts,200,OK,Load Test 1-16,text,true,,998,525,36,36,https://thinking-tester-contact-list.herokuapp.com/contacts,685,0,0
+1741614001553,748,Patch Contact,200,OK,Load Test 1-28,text,true,,1008,602,36,36,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb553c0aa001392f8f5,748,0,0
+1741614001587,717,Update User,200,OK,Load Test 1-19,text,true,,880,635,36,36,https://thinking-tester-contact-list.herokuapp.com/users/me,717,0,0
+1741614001581,723,Delete Contact,200,OK,Load Test 1-26,text,true,,752,603,36,36,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb453c0aa001392f8ef,723,0,0
+1741614001611,696,Update User,200,OK,Load Test 1-37,text,true,,880,635,36,36,https://thinking-tester-contact-list.herokuapp.com/users/me,696,0,0
+1741614001600,707,Delete Contact,200,OK,Load Test 1-25,text,true,,752,603,36,36,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb432eaf700137a4c77,707,0,0
+1741614001545,763,Patch Contact,200,OK,Load Test 1-27,text,true,,999,602,36,36,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb453c0aa001392f8f2,763,0,0
+1741614001608,700,Patch Contact,200,OK,Load Test 1-30,text,true,,999,602,36,36,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb553c0aa001392f8f8,700,0,0
+1741614001616,692,Add User,201,Created,Load Test 1-23,text,true,,1274,501,36,36,https://thinking-tester-contact-list.herokuapp.com/users,692,0,0
+1741614001603,706,Patch Contact,200,OK,Load Test 1-31,text,true,,999,602,36,36,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb553c0aa001392f8f7,706,0,0
+1741614001584,727,Patch Contact,200,OK,Load Test 1-14,text,true,,1008,602,36,36,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb453c0aa001392f8f3,727,0,0
+1741614001136,1175,Add User,201,Created,Load Test 1-43,text,true,,1274,336,36,36,https://thinking-tester-contact-list.herokuapp.com/users,1175,0,776
+1741614000936,1376,Add User,201,Created,Load Test 1-42,text,true,,1274,336,36,36,https://thinking-tester-contact-list.herokuapp.com/users,1376,0,764
+1741614001622,694,Patch Contact,200,OK,Load Test 1-29,text,true,,1009,602,36,36,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb532eaf700137a4c7d,694,0,0
+1741614001336,1053,Add User,201,Created,Load Test 1-44,text,true,,1274,336,37,37,https://thinking-tester-contact-list.herokuapp.com/users,1053,0,767
+1741614002262,370,Update User,200,OK,Load Test 1-40,text,true,,878,633,38,38,https://thinking-tester-contact-list.herokuapp.com/users/me,370,0,0
+1741614002261,371,Update User,200,OK,Load Test 1-20,text,true,,877,632,38,38,https://thinking-tester-contact-list.herokuapp.com/users/me,371,0,0
+1741614002268,364,Update Contact,200,OK,Load Test 1-18,text,true,,1032,836,38,38,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb553c0aa001392f903,364,0,0
+1741614002271,361,Update Contact,200,OK,Load Test 1-34,text,true,,1038,843,38,38,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb553c0aa001392f902,361,0,0
+1741614002265,367,Update User,200,OK,Load Test 1-39,text,true,,877,632,38,38,https://thinking-tester-contact-list.herokuapp.com/users/me,367,0,0
+1741614002302,330,Delete Contact,200,OK,Load Test 1-28,text,true,,752,603,38,38,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb553c0aa001392f8f5,330,0,0
+1741614002281,351,Get Contacts,200,OK,Load Test 1-21,text,true,,1008,525,38,38,https://thinking-tester-contact-list.herokuapp.com/contacts,351,0,0
+1741614002287,345,Get Contacts,200,OK,Load Test 1-35,text,true,,1001,525,38,38,https://thinking-tester-contact-list.herokuapp.com/contacts,345,0,0
+1741614002281,351,Add Contact,201,Created,Load Test 1-38,text,true,,1003,809,38,38,https://thinking-tester-contact-list.herokuapp.com/contacts,351,0,0
+1741614002290,343,Update Contact,200,OK,Load Test 1-33,text,true,,1039,843,38,38,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb553c0aa001392f905,343,0,0
+1741614002281,352,Update Contact,200,OK,Load Test 1-32,text,true,,1032,836,38,38,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb553c0aa001392f904,352,0,0
+1741614002309,324,Delete Contact,200,OK,Load Test 1-31,text,true,,752,603,38,38,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb553c0aa001392f8f7,324,0,0
+1741614002305,328,Add Contact,201,Created,Load Test 1-19,text,true,,1004,813,38,38,https://thinking-tester-contact-list.herokuapp.com/contacts,328,0,0
+1741614002298,336,Update Contact,200,OK,Load Test 1-16,text,true,,1030,834,38,38,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb532eaf700137a4c85,336,0,0
+1741614002288,346,Delete Contact,200,OK,Load Test 1-12,text,true,,752,603,38,38,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb432eaf700137a4c78,346,0,0
+1741614002308,326,Delete Contact,200,OK,Load Test 1-27,text,true,,752,603,38,38,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb453c0aa001392f8f2,326,0,0
+1741614001537,1097,Add User,201,Created,Load Test 1-45,text,true,,1274,336,38,38,https://thinking-tester-contact-list.herokuapp.com/users,1097,0,750
+1741614002312,323,Delete Contact,200,OK,Load Test 1-14,text,true,,752,603,38,38,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb453c0aa001392f8f3,323,0,0
+1741614002311,324,Get User Profile,200,OK,Load Test 1-43,text,true,,870,525,38,38,https://thinking-tester-contact-list.herokuapp.com/users/me,324,0,0
+1741614002316,319,Delete Contact,200,OK,Load Test 1-29,text,true,,752,603,38,38,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb532eaf700137a4c7d,319,0,0
+1741614002292,346,Get User Profile,200,OK,Load Test 1-22,text,true,,870,525,36,36,https://thinking-tester-contact-list.herokuapp.com/users/me,346,0,0
+1741614002308,330,Add Contact,201,Created,Load Test 1-37,text,true,,1004,813,36,36,https://thinking-tester-contact-list.herokuapp.com/contacts,330,0,0
+1741614002635,626,Get User Profile,200,OK,Load Test 1-45,text,true,,878,525,36,36,https://thinking-tester-contact-list.herokuapp.com/users/me,626,0,0
+1741614002293,968,Get User Profile,200,OK,Load Test 1-41,text,true,,870,525,36,36,https://thinking-tester-contact-list.herokuapp.com/users/me,968,0,0
+1741614002309,955,Get User Profile,200,OK,Load Test 1-23,text,true,,870,525,36,36,https://thinking-tester-contact-list.herokuapp.com/users/me,955,0,0
+1741614002389,880,Get User Profile,200,OK,Load Test 1-44,text,true,,878,525,36,36,https://thinking-tester-contact-list.herokuapp.com/users/me,880,0,0
+1741614002305,964,Add User,201,Created,Load Test 1-26,text,true,,1274,501,36,36,https://thinking-tester-contact-list.herokuapp.com/users,964,0,0
+1741614002312,957,Get User Profile,200,OK,Load Test 1-42,text,true,,870,525,36,36,https://thinking-tester-contact-list.herokuapp.com/users/me,957,0,0
+1741614002284,986,Add User,201,Created,Load Test 1-24,text,true,,1274,501,36,36,https://thinking-tester-contact-list.herokuapp.com/users,986,0,0
+1741614002287,990,Patch Contact,200,OK,Load Test 1-15,text,true,,999,602,36,36,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb553c0aa001392f8fc,990,0,0
+1741614002633,648,Update Contact,200,OK,Load Test 1-21,text,true,,1047,843,36,36,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb653c0aa001392f90a,648,0,0
+1741614002632,653,Add Contact,201,Created,Load Test 1-20,text,true,,1009,807,36,36,https://thinking-tester-contact-list.herokuapp.com/contacts,653,0,0
+1741614002634,651,Get Contacts,200,OK,Load Test 1-19,text,true,,1009,525,36,36,https://thinking-tester-contact-list.herokuapp.com/contacts,651,0,0
+1741614002633,654,Add Contact,201,Created,Load Test 1-39,text,true,,1009,807,36,36,https://thinking-tester-contact-list.herokuapp.com/contacts,654,0,0
+1741614002635,652,Update User,200,OK,Load Test 1-43,text,true,,886,633,36,36,https://thinking-tester-contact-list.herokuapp.com/users/me,652,0,0
+1741614002634,653,Add User,400,Bad Request,Load Test 1-31,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[400]]]
+
+****** comparison: [[[201]]]
+
+/",807,501,36,36,https://thinking-tester-contact-list.herokuapp.com/users,653,0,0
+1741614002309,980,Delete Contact,200,OK,Load Test 1-30,text,true,,752,603,36,36,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb553c0aa001392f8f8,980,0,0
+1741614002292,997,Get Contacts,200,OK,Load Test 1-36,text,true,,1008,525,36,36,https://thinking-tester-contact-list.herokuapp.com/contacts,997,0,0
+1741614002633,657,Update Contact,200,OK,Load Test 1-35,text,true,,1038,837,36,36,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb632eaf700137a4c87,657,0,0
+1741614002632,658,Add Contact,201,Created,Load Test 1-40,text,true,,1019,817,36,36,https://thinking-tester-contact-list.herokuapp.com/contacts,658,0,0
+1741614002639,652,Get Contacts,200,OK,Load Test 1-37,text,true,,1009,525,36,36,https://thinking-tester-contact-list.herokuapp.com/contacts,652,0,0
+1741614001738,1554,Add User,201,Created,Load Test 1-46,text,true,,1282,336,36,36,https://thinking-tester-contact-list.herokuapp.com/users,1554,0,753
+1741614002637,655,Patch Contact,200,OK,Load Test 1-34,text,true,,1016,602,36,36,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb553c0aa001392f902,655,0,0
+1741614002633,663,Get Contacts,200,OK,Load Test 1-38,text,true,,1008,525,36,36,https://thinking-tester-contact-list.herokuapp.com/contacts,663,0,0
+1741614002638,659,Update User,200,OK,Load Test 1-22,text,true,,885,632,36,36,https://thinking-tester-contact-list.herokuapp.com/users/me,659,0,0
+1741614002308,990,Add User,201,Created,Load Test 1-25,text,true,,1274,501,36,36,https://thinking-tester-contact-list.herokuapp.com/users,990,0,0
+1741614002633,665,Add User,201,Created,Load Test 1-28,text,true,,1282,501,36,36,https://thinking-tester-contact-list.herokuapp.com/users,665,0,0
+1741614002634,666,Patch Contact,200,OK,Load Test 1-16,text,true,,1007,602,36,36,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb532eaf700137a4c85,666,0,0
+1741614002634,668,Patch Contact,200,OK,Load Test 1-33,text,true,,1017,602,36,36,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb553c0aa001392f905,668,0,0
+1741614002638,666,Patch Contact,200,OK,Load Test 1-18,text,true,,1009,602,36,36,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb553c0aa001392f903,666,0,0
+1741614001935,1369,Add User,201,Created,Load Test 1-47,text,true,,1282,336,36,36,https://thinking-tester-contact-list.herokuapp.com/users,1369,0,748
+1741614002635,670,Add User,201,Created,Load Test 1-27,text,true,,1282,501,36,36,https://thinking-tester-contact-list.herokuapp.com/users,670,0,0
+1741614002638,668,Add User,201,Created,Load Test 1-29,text,true,,1282,501,36,36,https://thinking-tester-contact-list.herokuapp.com/users,668,0,0
+1741614002139,1171,Add User,201,Created,Load Test 1-48,text,true,,1282,336,36,36,https://thinking-tester-contact-list.herokuapp.com/users,1171,0,759
+1741614002634,679,Patch Contact,200,OK,Load Test 1-32,text,true,,1009,602,36,36,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb553c0aa001392f904,679,0,0
+1741614002349,1091,Add User,201,Created,Load Test 1-49,text,true,,1282,336,36,36,https://thinking-tester-contact-list.herokuapp.com/users,1091,0,797
+1741614003262,259,Update User,200,OK,Load Test 1-45,text,true,,885,632,36,36,https://thinking-tester-contact-list.herokuapp.com/users/me,259,0,0
+1741614003262,264,Update User,200,OK,Load Test 1-41,text,true,,885,632,36,36,https://thinking-tester-contact-list.herokuapp.com/users/me,264,0,0
+1741614003272,254,Get User Profile,200,OK,Load Test 1-24,text,true,,878,525,36,36,https://thinking-tester-contact-list.herokuapp.com/users/me,254,0,0
+1741614003269,260,Get User Profile,200,OK,Load Test 1-26,text,true,,878,525,36,36,https://thinking-tester-contact-list.herokuapp.com/users/me,260,0,0
+1741614003269,268,Update User,200,OK,Load Test 1-44,text,true,,888,635,36,36,https://thinking-tester-contact-list.herokuapp.com/users/me,268,0,0
+1741614003270,268,Update User,200,OK,Load Test 1-42,text,true,,885,632,36,36,https://thinking-tester-contact-list.herokuapp.com/users/me,268,0,0
+1741614003288,250,Get User Profile,401,Unauthorized,Load Test 1-31,text,false,Test failed: code expected to contain /200/,795,376,36,36,https://thinking-tester-contact-list.herokuapp.com/users/me,250,0,0
+1741614003265,275,Update User,200,OK,Load Test 1-23,text,true,,885,632,36,36,https://thinking-tester-contact-list.herokuapp.com/users/me,275,0,0
+1741614003290,254,Get Contacts,200,OK,Load Test 1-40,text,true,,1016,525,36,36,https://thinking-tester-contact-list.herokuapp.com/contacts,254,0,0
+1741614003287,260,Get Contacts,200,OK,Load Test 1-39,text,true,,1006,525,36,36,https://thinking-tester-contact-list.herokuapp.com/contacts,260,0,0
+1741614003292,259,Get User Profile,200,OK,Load Test 1-46,text,true,,878,525,36,36,https://thinking-tester-contact-list.herokuapp.com/users/me,259,0,0
+1741614003282,269,Patch Contact,200,OK,Load Test 1-21,text,true,,1017,602,36,36,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb653c0aa001392f90a,269,0,0
+1741614003299,255,Get User Profile,200,OK,Load Test 1-28,text,true,,878,525,36,36,https://thinking-tester-contact-list.herokuapp.com/users/me,255,0,0
+1741614003288,266,Add Contact,201,Created,Load Test 1-43,text,true,,1019,817,36,36,https://thinking-tester-contact-list.herokuapp.com/contacts,266,0,0
+1741614003297,262,Add Contact,201,Created,Load Test 1-22,text,true,,1019,816,36,36,https://thinking-tester-contact-list.herokuapp.com/contacts,262,0,0
+1741614003297,266,Update Contact,200,OK,Load Test 1-38,text,true,,1040,836,36,36,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb632eaf700137a4c89,266,0,0
+1741614003310,254,Get User Profile,200,OK,Load Test 1-48,text,true,,878,525,36,36,https://thinking-tester-contact-list.herokuapp.com/users/me,254,0,0
+1741614003306,258,Get User Profile,200,OK,Load Test 1-29,text,true,,878,525,36,36,https://thinking-tester-contact-list.herokuapp.com/users/me,258,0,0
+1741614003299,270,Get User Profile,200,OK,Load Test 1-25,text,true,,878,525,36,36,https://thinking-tester-contact-list.herokuapp.com/users/me,270,0,0
+1741614003286,285,Get Contacts,200,OK,Load Test 1-20,text,true,,1006,525,36,36,https://thinking-tester-contact-list.herokuapp.com/contacts,285,0,0
+1741614003286,288,Update Contact,200,OK,Load Test 1-19,text,true,,1038,837,36,36,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb632eaf700137a4c8c,288,0,0
+1741614003278,298,Delete Contact,200,OK,Load Test 1-15,text,true,,760,603,36,36,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb553c0aa001392f8fc,298,0,0
+1741614003290,291,Update Contact,200,OK,Load Test 1-36,text,true,,1046,843,35,35,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb653c0aa001392f90c,291,0,0
+1741614003314,277,Delete Contact,200,OK,Load Test 1-32,text,true,,760,603,35,35,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb553c0aa001392f904,277,0,0
+1741614003292,302,Update Contact,200,OK,Load Test 1-37,text,true,,1038,837,35,35,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb632eaf700137a4c8d,302,0,0
+1741614003538,249,Update User,401,Unauthorized,Load Test 1-31,text,false,Test failed: code expected to contain /200/,799,432,35,35,https://thinking-tester-contact-list.herokuapp.com/users/me,249,0,0
+1741614003788,251,Add Contact,401,Unauthorized,Load Test 1-31,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[4]]]01
+
+****** comparison: [[[2]]]01
+
+/",799,658,35,35,https://thinking-tester-contact-list.herokuapp.com/contacts,251,0,0
+1741614003441,818,Get User Profile,200,OK,Load Test 1-49,text,true,,882,525,35,35,https://thinking-tester-contact-list.herokuapp.com/users/me,818,0,0
+1741614003305,957,Get User Profile,200,OK,Load Test 1-47,text,true,,878,525,35,35,https://thinking-tester-contact-list.herokuapp.com/users/me,957,0,0
+1741614003302,966,Delete Contact,200,OK,Load Test 1-33,text,true,,760,603,35,35,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb553c0aa001392f905,966,0,0
+1741614003305,964,Get User Profile,200,OK,Load Test 1-27,text,true,,878,525,35,35,https://thinking-tester-contact-list.herokuapp.com/users/me,964,0,0
+1741614003292,985,Add User,201,Created,Load Test 1-30,text,true,,1282,501,35,35,https://thinking-tester-contact-list.herokuapp.com/users,985,0,0
+1741614003552,726,Delete Contact,200,OK,Load Test 1-21,text,true,,764,603,35,35,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb653c0aa001392f90a,726,0,0
+1741614003544,734,Update Contact,200,OK,Load Test 1-40,text,true,,1050,843,35,35,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb753c0aa001392f91d,734,0,0
+1741614003571,708,Update Contact,200,OK,Load Test 1-20,text,true,,1042,834,34,34,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb732eaf700137a4c90,708,0,0
+1741614003290,991,Patch Contact,200,OK,Load Test 1-35,text,true,,1007,602,34,34,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb632eaf700137a4c87,991,0,0
+1741614003555,726,Get Contacts,200,OK,Load Test 1-43,text,true,,1020,525,34,34,https://thinking-tester-contact-list.herokuapp.com/contacts,726,0,0
+1741614003522,759,Add Contact,201,Created,Load Test 1-45,text,true,,1015,809,34,34,https://thinking-tester-contact-list.herokuapp.com/contacts,759,0,0
+1741614003555,726,Update User,200,OK,Load Test 1-28,text,true,,889,632,34,34,https://thinking-tester-contact-list.herokuapp.com/users/me,726,0,0
+1741614003538,747,Add Contact,201,Created,Load Test 1-44,text,true,,1016,813,34,34,https://thinking-tester-contact-list.herokuapp.com/contacts,747,0,0
+1741614003565,722,Update User,200,OK,Load Test 1-29,text,true,,892,635,34,34,https://thinking-tester-contact-list.herokuapp.com/users/me,722,0,0
+1741614003538,749,Add Contact,201,Created,Load Test 1-42,text,true,,1023,816,34,34,https://thinking-tester-contact-list.herokuapp.com/contacts,749,0,0
+1741614004039,249,Get Contacts,401,Unauthorized,Load Test 1-31,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[401]]]
+
+****** comparison: [[[200]]]
+
+/",799,376,34,34,https://thinking-tester-contact-list.herokuapp.com/contacts,249,0,0
+1741614003559,729,Get Contacts,200,OK,Load Test 1-22,text,true,,1020,525,34,34,https://thinking-tester-contact-list.herokuapp.com/contacts,729,0,0
+1741614002539,1752,Add User,201,Created,Load Test 1-50,text,true,,1282,336,34,34,https://thinking-tester-contact-list.herokuapp.com/users,1752,0,777
+1741614003526,767,Update User,200,OK,Load Test 1-24,text,true,,889,632,34,34,https://thinking-tester-contact-list.herokuapp.com/users/me,767,0,0
+1741614003293,1001,Delete Contact,200,OK,Load Test 1-34,text,true,,760,603,34,34,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb553c0aa001392f902,1001,0,0
+1741614003526,768,Add Contact,201,Created,Load Test 1-41,text,true,,1015,809,34,34,https://thinking-tester-contact-list.herokuapp.com/contacts,768,0,0
+1741614003304,990,Delete Contact,200,OK,Load Test 1-18,text,true,,760,603,34,34,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb553c0aa001392f903,990,0,0
+1741614003548,747,Update Contact,200,OK,Load Test 1-39,text,true,,1042,834,34,34,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb732eaf700137a4c8f,747,0,0
+1741614003529,766,Update User,200,OK,Load Test 1-26,text,true,,889,632,33,33,https://thinking-tester-contact-list.herokuapp.com/users/me,766,0,0
+1741614003564,733,Update User,200,OK,Load Test 1-48,text,true,,889,632,33,33,https://thinking-tester-contact-list.herokuapp.com/users/me,733,0,0
+1741614003300,999,Delete Contact,200,OK,Load Test 1-16,text,true,,760,603,33,33,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb532eaf700137a4c85,999,0,0
+1741614003551,750,Update User,200,OK,Load Test 1-46,text,true,,890,633,32,32,https://thinking-tester-contact-list.herokuapp.com/users/me,750,0,0
+1741614003563,743,Patch Contact,200,OK,Load Test 1-38,text,true,,1013,602,32,32,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb632eaf700137a4c89,743,0,0
+1741614003592,714,Add User,201,Created,Load Test 1-32,text,true,,1286,501,32,32,https://thinking-tester-contact-list.herokuapp.com/users,714,0,0
+1741614003541,766,Add Contact,201,Created,Load Test 1-23,text,true,,1013,807,32,32,https://thinking-tester-contact-list.herokuapp.com/contacts,766,0,0
+1741614003570,744,Update User,200,OK,Load Test 1-25,text,true,,890,633,32,32,https://thinking-tester-contact-list.herokuapp.com/users/me,744,0,0
+1741614003574,741,Patch Contact,200,OK,Load Test 1-19,text,true,,1011,602,32,32,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb632eaf700137a4c8c,741,0,0
+1741614003582,733,Patch Contact,200,OK,Load Test 1-36,text,true,,1020,602,32,32,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb653c0aa001392f90c,733,0,0
+1741614003595,722,Patch Contact,200,OK,Load Test 1-37,text,true,,1011,602,32,32,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb632eaf700137a4c8d,722,0,0
+1741614004264,260,Update User,200,OK,Load Test 1-47,text,true,,892,635,32,32,https://thinking-tester-contact-list.herokuapp.com/users/me,260,0,0
+1741614004279,259,Patch Contact,200,OK,Load Test 1-40,text,true,,1020,602,32,32,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb753c0aa001392f91d,259,0,0
+1741614004260,281,Update User,200,OK,Load Test 1-49,text,true,,892,635,32,32,https://thinking-tester-contact-list.herokuapp.com/users/me,281,0,0
+1741614004281,262,Get Contacts,200,OK,Load Test 1-45,text,true,,1012,525,32,32,https://thinking-tester-contact-list.herokuapp.com/contacts,262,0,0
+1741614004282,272,Add Contact,201,Created,Load Test 1-28,text,true,,1023,816,32,32,https://thinking-tester-contact-list.herokuapp.com/contacts,272,0,0
+1741614004294,264,Get Contacts,200,OK,Load Test 1-41,text,true,,1012,525,32,32,https://thinking-tester-contact-list.herokuapp.com/contacts,264,0,0
+1741614004286,273,Get Contacts,200,OK,Load Test 1-44,text,true,,1013,525,32,32,https://thinking-tester-contact-list.herokuapp.com/contacts,273,0,0
+1741614004281,279,Update Contact,200,OK,Load Test 1-43,text,true,,1050,843,32,32,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb753c0aa001392f926,279,0,0
+1741614004306,261,Delete Contact,200,OK,Load Test 1-38,text,true,,764,603,32,32,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb632eaf700137a4c89,261,0,0
+1741614004298,272,Add Contact,201,Created,Load Test 1-48,text,true,,1015,809,32,32,https://thinking-tester-contact-list.herokuapp.com/contacts,272,0,0
+1741614004287,283,Add Contact,201,Created,Load Test 1-29,text,true,,1016,813,32,32,https://thinking-tester-contact-list.herokuapp.com/contacts,283,0,0
+1741614004307,265,Get User Profile,200,OK,Load Test 1-32,text,true,,882,525,32,32,https://thinking-tester-contact-list.herokuapp.com/users/me,265,0,0
+1741614004295,277,Add Contact,201,Created,Load Test 1-26,text,true,,1013,807,32,32,https://thinking-tester-contact-list.herokuapp.com/contacts,277,0,0
+1741614004269,304,Update User,200,OK,Load Test 1-27,text,true,,890,633,32,32,https://thinking-tester-contact-list.herokuapp.com/users/me,304,0,0
+1741614004301,272,Add Contact,201,Created,Load Test 1-46,text,true,,1023,817,32,32,https://thinking-tester-contact-list.herokuapp.com/contacts,272,0,0
+1741614004288,290,Get Contacts,200,OK,Load Test 1-42,text,true,,1020,525,32,32,https://thinking-tester-contact-list.herokuapp.com/contacts,290,0,0
+1741614004277,303,Get User Profile,200,OK,Load Test 1-30,text,true,,882,525,32,32,https://thinking-tester-contact-list.herokuapp.com/users/me,303,0,0
+1741614004268,312,Add User,201,Created,Load Test 1-33,text,true,,1286,501,32,32,https://thinking-tester-contact-list.herokuapp.com/users,312,0,0
+1741614004316,265,Delete Contact,200,OK,Load Test 1-36,text,true,,764,603,32,32,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb653c0aa001392f90c,265,0,0
+1741614004293,975,Add Contact,201,Created,Load Test 1-24,text,true,,1023,816,32,32,https://thinking-tester-contact-list.herokuapp.com/contacts,975,0,0
+1741614004316,952,Delete Contact,200,OK,Load Test 1-19,text,true,,764,603,32,32,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb632eaf700137a4c8c,952,0,0
+1741614004288,981,Update Contact,200,OK,Load Test 1-22,text,true,,1051,843,32,32,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb753c0aa001392f927,981,0,0
+1741614004294,975,Add User,201,Created,Load Test 1-34,text,true,,1286,501,32,32,https://thinking-tester-contact-list.herokuapp.com/users,975,0,0
+1741614004292,977,Get User Profile,200,OK,Load Test 1-50,text,true,,882,525,32,32,https://thinking-tester-contact-list.herokuapp.com/users/me,977,0,0
+1741614004280,990,Patch Contact,200,OK,Load Test 1-20,text,true,,1011,602,32,32,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb732eaf700137a4c90,990,0,0
+1741614004281,991,Delete Contact,200,OK,Load Test 1-35,text,true,,764,603,31,31,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb632eaf700137a4c87,991,0,0
+1741614004571,704,Get Contacts,200,OK,Load Test 1-29,text,true,,1005,525,31,31,https://thinking-tester-contact-list.herokuapp.com/contacts,704,0,0
+1741614004315,962,Add Contact,201,Created,Load Test 1-25,text,true,,1023,817,31,31,https://thinking-tester-contact-list.herokuapp.com/contacts,962,0,0
+1741614004568,709,Add User,201,Created,Load Test 1-38,text,true,,1278,501,31,31,https://thinking-tester-contact-list.herokuapp.com/users,709,0,0
+1741614004541,740,Add Contact,201,Created,Load Test 1-49,text,true,,1008,813,31,31,https://thinking-tester-contact-list.herokuapp.com/contacts,740,0,0
+1741614004307,975,Get Contacts,200,OK,Load Test 1-23,text,true,,1010,525,31,31,https://thinking-tester-contact-list.herokuapp.com/contacts,975,0,0
+1741614004580,702,Get User Profile,200,OK,Load Test 1-33,text,true,,874,525,31,31,https://thinking-tester-contact-list.herokuapp.com/users/me,702,0,0
+1741614004580,710,Update User,200,OK,Load Test 1-30,text,true,,881,632,31,31,https://thinking-tester-contact-list.herokuapp.com/users/me,710,0,0
+1741614004524,767,Add Contact,201,Created,Load Test 1-47,text,true,,1008,813,31,31,https://thinking-tester-contact-list.herokuapp.com/contacts,767,0,0
+1741614004317,977,Delete Contact,200,OK,Load Test 1-37,text,true,,764,603,31,31,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb632eaf700137a4c8d,977,0,0
+1741614004544,756,Update Contact,200,OK,Load Test 1-45,text,true,,1036,836,31,31,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb853c0aa001392f929,756,0,0
+1741614004295,1005,Patch Contact,200,OK,Load Test 1-39,text,true,,1011,602,31,31,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb732eaf700137a4c8f,1005,0,0
+1741614004555,745,Get Contacts,200,OK,Load Test 1-28,text,true,,1012,525,31,31,https://thinking-tester-contact-list.herokuapp.com/contacts,745,0,0
+1741614004539,765,Delete Contact,200,OK,Load Test 1-40,text,true,,756,603,31,31,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb753c0aa001392f91d,765,0,0
+1741614004558,751,Update Contact,200,OK,Load Test 1-41,text,true,,1036,836,31,31,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb832eaf700137a4c95,751,0,0
+1741614004573,736,Add Contact,201,Created,Load Test 1-27,text,true,,1015,817,31,31,https://thinking-tester-contact-list.herokuapp.com/contacts,736,0,0
+1741614004572,744,Get Contacts,200,OK,Load Test 1-26,text,true,,1002,525,31,31,https://thinking-tester-contact-list.herokuapp.com/contacts,744,0,0
+1741614004579,742,Update Contact,200,OK,Load Test 1-42,text,true,,1043,843,31,31,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb853c0aa001392f92a,742,0,0
+1741614004570,752,Get Contacts,200,OK,Load Test 1-48,text,true,,1004,525,31,31,https://thinking-tester-contact-list.herokuapp.com/contacts,752,0,0
+1741614004560,767,Update Contact,200,OK,Load Test 1-44,text,true,,1034,837,31,31,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb853c0aa001392f92b,767,0,0
+1741614004574,753,Get Contacts,200,OK,Load Test 1-46,text,true,,1012,525,31,31,https://thinking-tester-contact-list.herokuapp.com/contacts,753,0,0
+1741614004583,749,Add User,201,Created,Load Test 1-36,text,true,,1278,501,31,31,https://thinking-tester-contact-list.herokuapp.com/users,749,0,0
+1741614004572,765,Update User,200,OK,Load Test 1-32,text,true,,881,632,31,31,https://thinking-tester-contact-list.herokuapp.com/users/me,765,0,0
+1741614004560,779,Patch Contact,200,OK,Load Test 1-43,text,true,,1012,602,31,31,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb753c0aa001392f926,779,0,0
+1741614005270,279,Delete Contact,200,OK,Load Test 1-20,text,true,,756,603,31,31,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb732eaf700137a4c90,279,0,0
+1741614005269,280,Get User Profile,200,OK,Load Test 1-34,text,true,,874,525,31,31,https://thinking-tester-contact-list.herokuapp.com/users/me,280,0,0
+1741614005268,285,Get Contacts,200,OK,Load Test 1-24,text,true,,1012,525,30,30,https://thinking-tester-contact-list.herokuapp.com/contacts,285,0,0
+1741614005278,275,Get User Profile,200,OK,Load Test 1-38,text,true,,874,525,30,30,https://thinking-tester-contact-list.herokuapp.com/users/me,275,0,0
+1741614005282,272,Get Contacts,200,OK,Load Test 1-49,text,true,,1005,525,30,30,https://thinking-tester-contact-list.herokuapp.com/contacts,272,0,0
+1741614005278,276,Get Contacts,200,OK,Load Test 1-25,text,true,,1012,525,30,30,https://thinking-tester-contact-list.herokuapp.com/contacts,276,0,0
+1741614005283,271,Update User,200,OK,Load Test 1-33,text,true,,881,632,30,30,https://thinking-tester-contact-list.herokuapp.com/users/me,271,0,0
+1741614005300,262,Update Contact,200,OK,Load Test 1-28,text,true,,1043,843,30,30,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb832eaf700137a4c98,262,0,0
+1741614005300,267,Patch Contact,200,OK,Load Test 1-45,text,true,,1005,602,30,30,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb853c0aa001392f929,267,0,0
+1741614005300,269,Delete Contact,200,OK,Load Test 1-39,text,true,,756,603,30,30,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb732eaf700137a4c8f,269,0,0
+1741614005322,266,Update Contact,200,OK,Load Test 1-48,text,true,,1036,836,30,30,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb832eaf700137a4c9b,266,0,0
+1741614005309,279,Get Contacts,200,OK,Load Test 1-27,text,true,,1012,525,30,30,https://thinking-tester-contact-list.herokuapp.com/contacts,279,0,0
+1741614005333,258,Get User Profile,200,OK,Load Test 1-36,text,true,,874,525,30,30,https://thinking-tester-contact-list.herokuapp.com/users/me,258,0,0
+1741614005292,306,Get Contacts,200,OK,Load Test 1-47,text,true,,1005,525,30,30,https://thinking-tester-contact-list.herokuapp.com/contacts,306,0,0
+1741614005310,292,Patch Contact,200,OK,Load Test 1-41,text,true,,1005,602,30,30,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb832eaf700137a4c95,292,0,0
+1741614005270,332,Update User,200,OK,Load Test 1-50,text,true,,881,632,30,30,https://thinking-tester-contact-list.herokuapp.com/users/me,332,0,0
+1741614005269,333,Patch Contact,200,OK,Load Test 1-22,text,true,,1013,602,30,30,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb753c0aa001392f927,333,0,0
+1741614005273,330,Add User,201,Created,Load Test 1-35,text,true,,1278,501,30,30,https://thinking-tester-contact-list.herokuapp.com/users,330,0,0
+1741614005283,321,Update Contact,200,OK,Load Test 1-23,text,true,,1034,834,30,30,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb832eaf700137a4c96,321,0,0
+1741614005337,268,Add Contact,201,Created,Load Test 1-32,text,true,,1015,816,30,30,https://thinking-tester-contact-list.herokuapp.com/contacts,268,0,0
+1741614005290,315,Add Contact,201,Created,Load Test 1-30,text,true,,1007,809,30,30,https://thinking-tester-contact-list.herokuapp.com/contacts,315,0,0
+1741614005276,330,Update Contact,200,OK,Load Test 1-29,text,true,,1034,837,30,30,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb832eaf700137a4c99,330,0,0
+1741614005317,293,Update Contact,200,OK,Load Test 1-26,text,true,,1034,834,30,30,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb832eaf700137a4c9a,293,0,0
+1741614005328,290,Patch Contact,200,OK,Load Test 1-44,text,true,,1003,602,30,30,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb853c0aa001392f92b,290,0,0
+1741614005304,314,Add User,201,Created,Load Test 1-40,text,true,,1278,501,30,30,https://thinking-tester-contact-list.herokuapp.com/users,314,0,0
+1741614005296,328,Add User,201,Created,Load Test 1-37,text,true,,1278,501,30,30,https://thinking-tester-contact-list.herokuapp.com/users,328,0,0
+1741614005339,289,Delete Contact,200,OK,Load Test 1-43,text,true,,756,603,30,30,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb753c0aa001392f926,289,0,0
+1741614005619,649,Get User Profile,200,OK,Load Test 1-40,text,true,,878,525,30,30,https://thinking-tester-contact-list.herokuapp.com/users/me,649,0,0
+1741614005328,941,Update Contact,200,OK,Load Test 1-46,text,true,,1042,843,30,30,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb832eaf700137a4c9c,941,0,0
+1741614005592,682,Update User,200,OK,Load Test 1-36,text,true,,885,632,30,30,https://thinking-tester-contact-list.herokuapp.com/users/me,682,0,0
+1741614005604,673,Get User Profile,200,OK,Load Test 1-35,text,true,,878,525,30,30,https://thinking-tester-contact-list.herokuapp.com/users/me,673,0,0
+1741614005606,671,Get Contacts,200,OK,Load Test 1-30,text,true,,1008,525,30,30,https://thinking-tester-contact-list.herokuapp.com/contacts,671,0,0
+1741614005598,681,Update Contact,200,OK,Load Test 1-47,text,true,,1038,837,30,30,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb953c0aa001392f933,681,0,0
+1741614005568,711,Delete Contact,200,OK,Load Test 1-45,text,true,,760,603,30,30,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb853c0aa001392f929,711,0,0
+1741614005602,680,Delete Contact,200,OK,Load Test 1-22,text,true,,760,603,30,30,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb753c0aa001392f927,680,0,0
+1741614005606,676,Get Contacts,200,OK,Load Test 1-32,text,true,,1016,525,30,30,https://thinking-tester-contact-list.herokuapp.com/contacts,676,0,0
+1741614005554,731,Update Contact,200,OK,Load Test 1-25,text,true,,1046,843,29,29,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb832eaf700137a4c9d,731,0,0
+1741614005618,667,Delete Contact,200,OK,Load Test 1-44,text,true,,760,603,29,29,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb853c0aa001392f92b,667,0,0
+1741614005554,732,Update User,200,OK,Load Test 1-38,text,true,,888,635,29,29,https://thinking-tester-contact-list.herokuapp.com/users/me,732,0,0
+1741614005589,701,Patch Contact,200,OK,Load Test 1-48,text,true,,1009,602,29,29,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb832eaf700137a4c9b,701,0,0
+1741614005603,687,Delete Contact,200,OK,Load Test 1-41,text,true,,760,603,29,29,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb832eaf700137a4c95,687,0,0
+1741614005625,665,Get User Profile,200,OK,Load Test 1-37,text,true,,878,525,29,29,https://thinking-tester-contact-list.herokuapp.com/users/me,665,0,0
+1741614005571,720,Add User,201,Created,Load Test 1-39,text,true,,1282,501,29,29,https://thinking-tester-contact-list.herokuapp.com/users,720,0,0
+1741614005554,738,Update Contact,200,OK,Load Test 1-24,text,true,,1047,843,29,29,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb853c0aa001392f930,738,0,0
+1741614005562,733,Patch Contact,200,OK,Load Test 1-28,text,true,,1017,602,29,29,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb832eaf700137a4c98,733,0,0
+1741614005321,975,Patch Contact,200,OK,Load Test 1-42,text,true,,1013,602,29,29,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb853c0aa001392f92a,975,0,0
+1741614005631,665,Add User,201,Created,Load Test 1-43,text,true,,1282,501,29,29,https://thinking-tester-contact-list.herokuapp.com/users,665,0,0
+1741614005611,687,Patch Contact,200,OK,Load Test 1-26,text,true,,1007,602,29,29,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb832eaf700137a4c9a,687,0,0
+1741614005554,744,Update Contact,200,OK,Load Test 1-49,text,true,,1038,837,29,29,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb932eaf700137a4c9f,744,0,0
+1741614005550,750,Update User,200,OK,Load Test 1-34,text,true,,886,633,29,29,https://thinking-tester-contact-list.herokuapp.com/users/me,750,0,0
+1741614005554,746,Add Contact,201,Created,Load Test 1-33,text,true,,1009,807,29,29,https://thinking-tester-contact-list.herokuapp.com/contacts,746,0,0
+1741614005589,714,Update Contact,200,OK,Load Test 1-27,text,true,,1046,843,29,29,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb953c0aa001392f934,714,0,0
+1741614005604,699,Patch Contact,200,OK,Load Test 1-23,text,true,,1007,602,29,29,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb832eaf700137a4c96,699,0,0
+1741614005603,700,Add Contact,201,Created,Load Test 1-50,text,true,,1011,809,29,29,https://thinking-tester-contact-list.herokuapp.com/contacts,700,0,0
+1741614005606,706,Patch Contact,200,OK,Load Test 1-29,text,true,,1007,602,29,29,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb832eaf700137a4c99,706,0,0
+1741614006269,284,Update User,200,OK,Load Test 1-40,text,true,,886,633,29,29,https://thinking-tester-contact-list.herokuapp.com/users/me,284,0,0
+1741614006283,299,Update Contact,200,OK,Load Test 1-32,text,true,,1047,843,29,29,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebba32eaf700137a4ca1,299,0,0
+1741614006275,312,Add Contact,201,Created,Load Test 1-36,text,true,,1011,809,29,29,https://thinking-tester-contact-list.herokuapp.com/contacts,312,0,0
+1741614006278,317,Update Contact,200,OK,Load Test 1-30,text,true,,1040,836,29,29,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb953c0aa001392f939,317,0,0
+1741614006278,329,Update User,200,OK,Load Test 1-35,text,true,,885,632,29,29,https://thinking-tester-contact-list.herokuapp.com/users/me,329,0,0
+1741614006297,310,Get User Profile,200,OK,Load Test 1-43,text,true,,878,525,29,29,https://thinking-tester-contact-list.herokuapp.com/users/me,310,0,0
+1741614006270,342,Patch Contact,200,OK,Load Test 1-46,text,true,,1016,602,29,29,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb832eaf700137a4c9c,342,0,0
+1741614006291,321,Get User Profile,200,OK,Load Test 1-39,text,true,,878,525,29,29,https://thinking-tester-contact-list.herokuapp.com/users/me,321,0,0
+1741614006297,320,Delete Contact,200,OK,Load Test 1-42,text,true,,760,603,29,29,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb853c0aa001392f92a,320,0,0
+1741614006313,304,Delete Contact,200,OK,Load Test 1-29,text,true,,760,603,29,29,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb832eaf700137a4c99,304,0,0
+1741614006295,327,Delete Contact,200,OK,Load Test 1-28,text,true,,760,603,28,28,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb832eaf700137a4c98,327,0,0
+1741614006304,318,Get Contacts,200,OK,Load Test 1-50,text,true,,1008,525,28,28,https://thinking-tester-contact-list.herokuapp.com/contacts,318,0,0
+1741614006300,322,Add Contact,201,Created,Load Test 1-34,text,true,,1019,817,28,28,https://thinking-tester-contact-list.herokuapp.com/contacts,322,0,0
+1741614006304,318,Patch Contact,200,OK,Load Test 1-27,text,true,,1016,602,28,28,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb953c0aa001392f934,318,0,0
+1741614006290,336,Update User,200,OK,Load Test 1-37,text,true,,885,632,27,27,https://thinking-tester-contact-list.herokuapp.com/users/me,336,0,0
+1741614006300,327,Get Contacts,200,OK,Load Test 1-33,text,true,,1006,525,27,27,https://thinking-tester-contact-list.herokuapp.com/contacts,327,0,0
+1741614006287,340,Add Contact,201,Created,Load Test 1-38,text,true,,1012,813,27,27,https://thinking-tester-contact-list.herokuapp.com/contacts,340,0,0
+1741614006292,337,Patch Contact,200,OK,Load Test 1-24,text,true,,1017,602,27,27,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb853c0aa001392f930,337,0,0
+1741614006280,349,Add User,201,Created,Load Test 1-45,text,true,,1282,501,27,27,https://thinking-tester-contact-list.herokuapp.com/users,349,0,0
+1741614006290,339,Add User,201,Created,Load Test 1-41,text,true,,1282,501,27,27,https://thinking-tester-contact-list.herokuapp.com/users,339,0,0
+1741614006290,348,Delete Contact,200,OK,Load Test 1-48,text,true,,760,603,27,27,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb832eaf700137a4c9b,348,0,0
+1741614006286,352,Patch Contact,200,OK,Load Test 1-25,text,true,,1016,602,27,27,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb832eaf700137a4c9d,352,0,0
+1741614006299,974,Delete Contact,200,OK,Load Test 1-26,text,true,,760,603,27,27,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb832eaf700137a4c9a,974,0,0
+1741614006286,991,Add User,201,Created,Load Test 1-44,text,true,,1282,501,26,26,https://thinking-tester-contact-list.herokuapp.com/users,991,0,0
+1741614006280,1003,Patch Contact,200,OK,Load Test 1-47,text,true,,1007,602,26,26,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb953c0aa001392f933,1003,0,0
+1741614006630,660,Get User Profile,200,OK,Load Test 1-45,text,true,,874,525,26,26,https://thinking-tester-contact-list.herokuapp.com/users/me,659,0,0
+1741614006304,987,Delete Contact,200,OK,Load Test 1-23,text,true,,760,603,26,26,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb832eaf700137a4c96,987,0,0
+1741614006618,676,Add User,201,Created,Load Test 1-42,text,true,,1278,501,25,25,https://thinking-tester-contact-list.herokuapp.com/users,676,0,0
+1741614006612,683,Update User,200,OK,Load Test 1-39,text,true,,884,635,25,25,https://thinking-tester-contact-list.herokuapp.com/users/me,683,0,0
+1741614006630,668,Delete Contact,200,OK,Load Test 1-24,text,true,,756,603,25,25,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb853c0aa001392f930,668,0,0
+1741614006299,999,Patch Contact,200,OK,Load Test 1-49,text,true,,1007,602,25,25,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb932eaf700137a4c9f,999,0,0
+1741614006628,679,Get Contacts,200,OK,Load Test 1-38,text,true,,1005,525,24,24,https://thinking-tester-contact-list.herokuapp.com/contacts,679,0,0
+1741614006607,700,Update User,200,OK,Load Test 1-43,text,true,,881,632,24,24,https://thinking-tester-contact-list.herokuapp.com/users/me,700,0,0
+1741614006631,676,Get User Profile,200,OK,Load Test 1-41,text,true,,874,525,24,24,https://thinking-tester-contact-list.herokuapp.com/users/me,676,0,0
+1741614006628,679,Update Contact,200,OK,Load Test 1-33,text,true,,1034,834,24,24,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebba32eaf700137a4ca2,679,0,0
+1741614006612,705,Delete Contact,200,OK,Load Test 1-46,text,true,,756,603,24,24,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb832eaf700137a4c9c,705,0,0
+1741614006626,691,Add Contact,201,Created,Load Test 1-37,text,true,,1005,807,24,24,https://thinking-tester-contact-list.herokuapp.com/contacts,691,0,0
+1741614006623,705,Delete Contact,200,OK,Load Test 1-27,text,true,,756,603,24,24,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb953c0aa001392f934,705,0,0
+1741614006623,705,Update Contact,200,OK,Load Test 1-50,text,true,,1036,836,24,24,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebba32eaf700137a4ca3,705,0,0
+1741614006641,687,Add User,201,Created,Load Test 1-48,text,true,,1278,501,24,24,https://thinking-tester-contact-list.herokuapp.com/users,687,0,0
+1741614006607,722,Add Contact,201,Created,Load Test 1-35,text,true,,1015,816,24,24,https://thinking-tester-contact-list.herokuapp.com/contacts,722,0,0
+1741614006595,750,Patch Contact,200,OK,Load Test 1-30,text,true,,1005,602,23,23,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb953c0aa001392f939,750,0,0
+1741614006583,762,Patch Contact,200,OK,Load Test 1-32,text,true,,1013,602,23,23,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebba32eaf700137a4ca1,762,0,0
+1741614006587,758,Get Contacts,200,OK,Load Test 1-36,text,true,,1004,525,23,23,https://thinking-tester-contact-list.herokuapp.com/contacts,758,0,0
+1741614006639,706,Delete Contact,200,OK,Load Test 1-25,text,true,,756,603,23,23,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb832eaf700137a4c9d,706,0,0
+1741614006554,791,Add Contact,201,Created,Load Test 1-40,text,true,,1015,817,23,23,https://thinking-tester-contact-list.herokuapp.com/contacts,791,0,0
+1741614006623,722,Get Contacts,200,OK,Load Test 1-34,text,true,,1012,525,23,23,https://thinking-tester-contact-list.herokuapp.com/contacts,722,0,0
+1741614007278,262,Get User Profile,200,OK,Load Test 1-44,text,true,,874,525,22,22,https://thinking-tester-contact-list.herokuapp.com/users/me,262,0,0
+1741614007284,275,Delete Contact,200,OK,Load Test 1-47,text,true,,756,603,22,22,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb953c0aa001392f933,275,0,0
+1741614007290,270,Update User,200,OK,Load Test 1-45,text,true,,881,632,22,22,https://thinking-tester-contact-list.herokuapp.com/users/me,270,0,0
+1741614007295,265,Get User Profile,200,OK,Load Test 1-42,text,true,,874,525,22,22,https://thinking-tester-contact-list.herokuapp.com/users/me,265,0,0
+1741614007295,265,Add Contact,201,Created,Load Test 1-39,text,true,,1008,813,22,22,https://thinking-tester-contact-list.herokuapp.com/contacts,265,0,0
+1741614007299,272,Delete Contact,200,OK,Load Test 1-49,text,true,,756,603,22,22,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb932eaf700137a4c9f,272,0,0
+1741614007307,271,Add Contact,201,Created,Load Test 1-43,text,true,,1007,809,22,22,https://thinking-tester-contact-list.herokuapp.com/contacts,271,0,0
+1741614007329,257,Get Contacts,200,OK,Load Test 1-35,text,true,,1012,525,22,22,https://thinking-tester-contact-list.herokuapp.com/contacts,257,0,0
+1741614007307,285,Update Contact,200,OK,Load Test 1-38,text,true,,1034,837,22,22,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebbb32eaf700137a4ca6,285,0,0
+1741614007317,288,Get Contacts,200,OK,Load Test 1-37,text,true,,1002,525,22,22,https://thinking-tester-contact-list.herokuapp.com/contacts,288,0,0
+1741614007308,301,Update User,200,OK,Load Test 1-41,text,true,,882,633,22,22,https://thinking-tester-contact-list.herokuapp.com/users/me,301,0,0
+1741614007329,279,Get User Profile,200,OK,Load Test 1-48,text,true,,874,525,22,22,https://thinking-tester-contact-list.herokuapp.com/users/me,279,0,0
+1741614007345,271,Get Contacts,200,OK,Load Test 1-40,text,true,,1012,525,22,22,https://thinking-tester-contact-list.herokuapp.com/contacts,270,0,0
+1741614007329,289,Patch Contact,200,OK,Load Test 1-50,text,true,,1005,602,22,22,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebba32eaf700137a4ca3,289,0,0
+1741614007308,313,Patch Contact,200,OK,Load Test 1-33,text,true,,1003,602,22,22,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebba32eaf700137a4ca2,313,0,0
+1741614007345,277,Delete Contact,200,OK,Load Test 1-32,text,true,,756,603,22,22,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebba32eaf700137a4ca1,277,0,0
+1741614007318,304,Add User,201,Created,Load Test 1-46,text,true,,1278,501,22,22,https://thinking-tester-contact-list.herokuapp.com/users,304,0,0
+1741614007345,277,Update Contact,200,OK,Load Test 1-34,text,true,,1042,843,22,22,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebbb53c0aa001392f943,277,0,0
+1741614007345,277,Update Contact,200,OK,Load Test 1-36,text,true,,1036,836,22,22,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebba53c0aa001392f941,277,0,0
+1741614007345,281,Delete Contact,200,OK,Load Test 1-30,text,true,,756,603,21,21,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebb953c0aa001392f939,281,0,0
+1741614007541,297,Update User,200,OK,Load Test 1-44,text,true,,881,632,20,20,https://thinking-tester-contact-list.herokuapp.com/users/me,297,0,0
+1741614007560,299,Update User,200,OK,Load Test 1-42,text,true,,884,635,20,20,https://thinking-tester-contact-list.herokuapp.com/users/me,299,0,0
+1741614007579,279,Get Contacts,200,OK,Load Test 1-43,text,true,,1004,525,20,20,https://thinking-tester-contact-list.herokuapp.com/contacts,279,0,0
+1741614007560,298,Add Contact,201,Created,Load Test 1-45,text,true,,1015,816,20,20,https://thinking-tester-contact-list.herokuapp.com/contacts,298,0,0
+1741614007586,298,Update Contact,200,OK,Load Test 1-35,text,true,,1043,843,20,20,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebbb53c0aa001392f946,298,0,0
+1741614007560,324,Get Contacts,200,OK,Load Test 1-39,text,true,,1005,525,20,20,https://thinking-tester-contact-list.herokuapp.com/contacts,324,0,0
+1741614007609,297,Update User,200,OK,Load Test 1-48,text,true,,881,632,20,20,https://thinking-tester-contact-list.herokuapp.com/users/me,297,0,0
+1741614007592,314,Patch Contact,200,OK,Load Test 1-38,text,true,,1003,602,20,20,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebbb32eaf700137a4ca6,314,0,0
+1741614007606,300,Update Contact,200,OK,Load Test 1-37,text,true,,1034,834,20,20,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebbb32eaf700137a4cab,300,0,0
+1741614007560,346,Add User,201,Created,Load Test 1-47,text,true,,1278,501,20,20,https://thinking-tester-contact-list.herokuapp.com/users,346,0,0
+1741614007907,350,Get User Profile,200,OK,Load Test 1-47,text,true,,874,525,20,20,https://thinking-tester-contact-list.herokuapp.com/users/me,350,0,0
+1741614007859,412,Get Contacts,200,OK,Load Test 1-45,text,true,,1012,525,20,20,https://thinking-tester-contact-list.herokuapp.com/contacts,412,0,0
+1741614007572,699,Add User,201,Created,Load Test 1-49,text,true,,1278,501,20,20,https://thinking-tester-contact-list.herokuapp.com/users,699,0,0
+1741614007907,375,Delete Contact,200,OK,Load Test 1-38,text,true,,756,603,20,20,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebbb32eaf700137a4ca6,375,0,0
+1741614007609,674,Add Contact,201,Created,Load Test 1-41,text,true,,1015,817,20,20,https://thinking-tester-contact-list.herokuapp.com/contacts,673,0,0
+1741614007622,661,Delete Contact,200,OK,Load Test 1-33,text,true,,756,603,20,20,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebba32eaf700137a4ca2,661,0,0
+1741614007618,665,Delete Contact,200,OK,Load Test 1-50,text,true,,756,603,20,20,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebba32eaf700137a4ca3,665,0,0
+1741614007616,674,Update Contact,200,OK,Load Test 1-40,text,true,,1042,843,18,18,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebbb53c0aa001392f949,674,0,0
+1741614007860,430,Update Contact,200,OK,Load Test 1-43,text,true,,1036,836,18,18,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebbb53c0aa001392f94b,430,0,0
+1741614007859,431,Add Contact,201,Created,Load Test 1-42,text,true,,1008,813,18,18,https://thinking-tester-contact-list.herokuapp.com/contacts,431,0,0
+1741614007907,383,Add Contact,201,Created,Load Test 1-48,text,true,,1007,809,18,18,https://thinking-tester-contact-list.herokuapp.com/contacts,383,0,0
+1741614007622,671,Patch Contact,200,OK,Load Test 1-36,text,true,,1005,602,18,18,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebba53c0aa001392f941,671,0,0
+1741614007885,408,Update Contact,200,OK,Load Test 1-39,text,true,,1034,837,18,18,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebbb53c0aa001392f94a,408,0,0
+1741614007623,671,Patch Contact,200,OK,Load Test 1-34,text,true,,1012,602,18,18,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebbb53c0aa001392f943,671,0,0
+1741614007885,410,Patch Contact,200,OK,Load Test 1-35,text,true,,1013,602,18,18,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebbb53c0aa001392f946,410,0,0
+1741614007839,456,Add Contact,201,Created,Load Test 1-44,text,true,,1005,807,18,18,https://thinking-tester-contact-list.herokuapp.com/contacts,456,0,0
+1741614007907,389,Patch Contact,200,OK,Load Test 1-37,text,true,,1003,602,18,18,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebbb32eaf700137a4cab,389,0,0
+1741614008272,282,Get User Profile,200,OK,Load Test 1-49,text,true,,874,525,18,18,https://thinking-tester-contact-list.herokuapp.com/users/me,282,0,0
+1741614008272,284,Update Contact,200,OK,Load Test 1-45,text,true,,1043,843,18,18,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebbc32eaf700137a4cae,284,0,0
+1741614008283,274,Get Contacts,200,OK,Load Test 1-41,text,true,,1012,525,18,18,https://thinking-tester-contact-list.herokuapp.com/contacts,274,0,0
+1741614008297,271,Delete Contact,200,OK,Load Test 1-37,text,true,,756,603,18,18,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebbb32eaf700137a4cab,271,0,0
+1741614008257,311,Update User,200,OK,Load Test 1-47,text,true,,881,632,18,18,https://thinking-tester-contact-list.herokuapp.com/users/me,311,0,0
+1741614008295,278,Delete Contact,200,OK,Load Test 1-35,text,true,,756,603,17,17,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebbb53c0aa001392f946,278,0,0
+1741614008291,284,Patch Contact,200,OK,Load Test 1-43,text,true,,1005,602,16,16,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebbb53c0aa001392f94b,284,0,0
+1741614008294,296,Delete Contact,200,OK,Load Test 1-36,text,true,,756,603,16,16,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebba53c0aa001392f941,296,0,0
+1741614008295,295,Delete Contact,200,OK,Load Test 1-34,text,true,,756,603,16,16,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebbb53c0aa001392f943,295,0,0
+1741614008291,299,Get Contacts,200,OK,Load Test 1-48,text,true,,1004,525,16,16,https://thinking-tester-contact-list.herokuapp.com/contacts,299,0,0
+1741614008290,306,Patch Contact,200,OK,Load Test 1-40,text,true,,1012,602,14,14,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebbb53c0aa001392f949,305,0,0
+1741614008291,304,Get Contacts,200,OK,Load Test 1-42,text,true,,1005,525,14,14,https://thinking-tester-contact-list.herokuapp.com/contacts,304,0,0
+1741614008285,310,Add User,201,Created,Load Test 1-50,text,true,,1278,501,14,14,https://thinking-tester-contact-list.herokuapp.com/users,310,0,0
+1741614008294,308,Patch Contact,200,OK,Load Test 1-39,text,true,,1003,602,14,14,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebbb53c0aa001392f94a,308,0,0
+1741614008295,307,Get Contacts,200,OK,Load Test 1-44,text,true,,1002,525,14,14,https://thinking-tester-contact-list.herokuapp.com/contacts,307,0,0
+1741614007622,1133,Get User Profile,200,OK,Load Test 1-46,text,true,,874,525,14,14,https://thinking-tester-contact-list.herokuapp.com/users/me,1133,0,0
+1741614008557,285,Patch Contact,200,OK,Load Test 1-45,text,true,,1017,602,14,14,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebbc32eaf700137a4cae,285,0,0
+1741614008569,273,Add Contact,201,Created,Load Test 1-47,text,true,,1009,807,14,14,https://thinking-tester-contact-list.herokuapp.com/contacts,273,0,0
+1741614008557,286,Update Contact,200,OK,Load Test 1-41,text,true,,1046,843,14,14,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebbc53c0aa001392f950,286,0,0
+1741614008555,291,Update User,200,OK,Load Test 1-49,text,true,,886,633,14,14,https://thinking-tester-contact-list.herokuapp.com/users/me,291,0,0
+1741614008576,286,Delete Contact,200,OK,Load Test 1-43,text,true,,760,603,14,14,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebbb53c0aa001392f94b,286,0,0
+1741614008591,272,Update Contact,200,OK,Load Test 1-48,text,true,,1040,836,14,14,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebbc53c0aa001392f953,271,0,0
+1741614008596,298,Delete Contact,200,OK,Load Test 1-40,text,true,,760,603,13,13,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebbb53c0aa001392f949,298,0,0
+1741614008602,292,Delete Contact,200,OK,Load Test 1-39,text,true,,760,603,13,13,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebbb53c0aa001392f94a,292,0,0
+1741614008596,304,Update Contact,200,OK,Load Test 1-42,text,true,,1038,837,11,11,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebbc53c0aa001392f952,304,0,0
+1741614008596,306,Get User Profile,200,OK,Load Test 1-50,text,true,,878,525,11,11,https://thinking-tester-contact-list.herokuapp.com/users/me,306,0,0
+1741614008602,303,Update Contact,200,OK,Load Test 1-44,text,true,,1038,834,11,11,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebbc53c0aa001392f951,303,0,0
+1741614008756,267,Update User,200,OK,Load Test 1-46,text,true,,885,632,11,11,https://thinking-tester-contact-list.herokuapp.com/users/me,267,0,0
+1741614008843,267,Get Contacts,200,OK,Load Test 1-47,text,true,,1006,525,11,11,https://thinking-tester-contact-list.herokuapp.com/contacts,267,0,0
+1741614008843,272,Delete Contact,200,OK,Load Test 1-45,text,true,,760,603,11,11,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebbc32eaf700137a4cae,272,0,0
+1741614008843,275,Patch Contact,200,OK,Load Test 1-41,text,true,,1016,602,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebbc53c0aa001392f950,275,0,0
+1741614008847,271,Add Contact,201,Created,Load Test 1-49,text,true,,1019,817,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts,271,0,0
+1741614008864,297,Patch Contact,200,OK,Load Test 1-48,text,true,,1009,602,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebbc53c0aa001392f953,297,0,0
+1741614008902,368,Update User,200,OK,Load Test 1-50,text,true,,888,635,10,10,https://thinking-tester-contact-list.herokuapp.com/users/me,368,0,0
+1741614008901,373,Patch Contact,200,OK,Load Test 1-42,text,true,,1007,602,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebbc53c0aa001392f952,372,0,0
+1741614008906,372,Patch Contact,200,OK,Load Test 1-44,text,true,,1007,602,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebbc53c0aa001392f951,372,0,0
+1741614009023,306,Add Contact,201,Created,Load Test 1-46,text,true,,1019,816,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts,306,0,0
+1741614009111,278,Update Contact,200,OK,Load Test 1-47,text,true,,1038,834,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebbd53c0aa001392f956,278,0,0
+1741614009119,272,Get Contacts,200,OK,Load Test 1-49,text,true,,1016,525,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts,272,0,0
+1741614009119,277,Delete Contact,200,OK,Load Test 1-41,text,true,,760,603,10,10,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebbc53c0aa001392f950,277,0,0
+1741614009163,264,Delete Contact,200,OK,Load Test 1-48,text,true,,760,603,9,9,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebbc53c0aa001392f953,264,0,0
+1741614009270,270,Add Contact,201,Created,Load Test 1-50,text,true,,1012,813,8,8,https://thinking-tester-contact-list.herokuapp.com/contacts,270,0,0
+1741614009278,270,Delete Contact,200,OK,Load Test 1-44,text,true,,760,603,8,8,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebbc53c0aa001392f951,270,0,0
+1741614009275,273,Delete Contact,200,OK,Load Test 1-42,text,true,,760,603,8,8,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebbc53c0aa001392f952,273,0,0
+1741614009329,257,Get Contacts,200,OK,Load Test 1-46,text,true,,1016,525,6,6,https://thinking-tester-contact-list.herokuapp.com/contacts,257,0,0
+1741614009391,325,Update Contact,200,OK,Load Test 1-49,text,true,,1042,843,6,6,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebbd53c0aa001392f957,325,0,0
+1741614009390,330,Patch Contact,200,OK,Load Test 1-47,text,true,,1003,602,6,6,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebbd53c0aa001392f956,330,0,0
+1741614009541,260,Get Contacts,200,OK,Load Test 1-50,text,true,,1005,525,6,6,https://thinking-tester-contact-list.herokuapp.com/contacts,260,0,0
+1741614009586,274,Update Contact,200,OK,Load Test 1-46,text,true,,1043,843,6,6,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebbd32eaf700137a4caf,274,0,0
+1741614009720,269,Delete Contact,200,OK,Load Test 1-47,text,true,,756,603,6,6,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebbd53c0aa001392f956,269,0,0
+1741614009718,281,Patch Contact,200,OK,Load Test 1-49,text,true,,1012,602,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebbd53c0aa001392f957,281,0,0
+1741614009802,266,Update Contact,200,OK,Load Test 1-50,text,true,,1034,837,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebbd53c0aa001392f958,266,0,0
+1741614009861,260,Patch Contact,200,OK,Load Test 1-46,text,true,,1013,602,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebbd32eaf700137a4caf,260,0,0
+1741614010000,271,Delete Contact,200,OK,Load Test 1-49,text,true,,756,603,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebbd53c0aa001392f957,271,0,0
+1741614010068,325,Patch Contact,200,OK,Load Test 1-50,text,true,,1003,602,4,4,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebbd53c0aa001392f958,325,0,0
+1741614010122,271,Delete Contact,200,OK,Load Test 1-46,text,true,,756,603,4,4,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebbd32eaf700137a4caf,271,0,0
+1741614010394,276,Delete Contact,200,OK,Load Test 1-50,text,true,,752,603,3,3,https://thinking-tester-contact-list.herokuapp.com/contacts/67ceebbd53c0aa001392f958,276,0,0
+1741614001307,30930,Update Contact,503,Service Unavailable,Load Test 1-17,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[503]]]
+
+****** comparison: [[[200]]]
+
+/",1220,670,2,2,https://thinking-tester-contact-list.herokuapp.com/contacts/,30930,0,0
+1741614032238,1,Patch Contact,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: thinking-tester-contact-list.herokuapp.com:443 failed to respond,Load Test 1-17,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.NoHttpResponseException]]]
+
+****** comparison: [[[200                                                            ]]]
+
+/",2123,0,2,2,https://thinking-tester-contact-list.herokuapp.com/contacts/,0,0,0
+1741614004288,30311,Update Contact,503,Service Unavailable,Load Test 1-31,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[503]]]
+
+****** comparison: [[[200]]]
+
+/",1228,661,2,2,https://thinking-tester-contact-list.herokuapp.com/contacts/,30311,0,0
+1741614034600,2,Patch Contact,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: thinking-tester-contact-list.herokuapp.com:443 failed to respond,Load Test 1-31,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.NoHttpResponseException]]]
+
+****** comparison: [[[200                                                            ]]]
+
+/",2123,0,2,2,https://thinking-tester-contact-list.herokuapp.com/contacts/,0,0,0
+1741614032240,32054,Delete Contact,503,Service Unavailable,Load Test 1-17,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[503]]]
+
+****** comparison: [[[200]]]
+
+/",1216,430,2,2,https://thinking-tester-contact-list.herokuapp.com/contacts/,32054,0,1641
+1741614034602,31735,Delete Contact,503,Service Unavailable,Load Test 1-31,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[503]]]
+
+****** comparison: [[[200]]]
+
+/",1228,430,1,1,https://thinking-tester-contact-list.herokuapp.com/contacts/,31735,0,1323

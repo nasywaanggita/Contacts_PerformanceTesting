@@ -1,0 +1,6 @@
+﻿firstName;lastName;emailContact;phone;street1;street2;city;stateProvince;postalCode;country
+John;Doe;john@example.com;1234567890;123 Main St;Apt 1;New York;NY;10001;USA
+Jane;Smith;jane@example.com;2345678901;456 Oak Ave;Suite 2;Los Angeles;CA;90001;USA
+Mark;Johnson;mark@example.com;3456789012;789 Pine Rd;;Chicago;IL;60601;USA
+Sarah;Williams;sarah@example.com;4567890123;321 Elm Blvd;Unit 3;Houston;TX;77001;USA
+Michael;Dbrown;michael@example.com;5678901234;654 Cedar Ln;;Phoenix;AZ;85001;USA
